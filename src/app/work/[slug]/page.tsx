@@ -30,6 +30,16 @@ export default async function WorkPage({ params }: { params: Promise<{ slug: str
     ?.map((s) => getProject(s))
     .filter(Boolean) as typeof projects;
 
+  // Hero image: prefer first gallery entry, else fall back to thumbnail.
+  // For case studies the first image is used as the faded header background,
+  // so the gallery section below skips it to avoid duplication. For classics
+  // the header is a solid color, so we display every gallery image.
+  const heroImage = project.gallery?.[0] ?? project.thumbnail;
+  const galleryRest =
+    project.type === "case-study"
+      ? project.gallery?.slice(1) ?? []
+      : project.gallery ?? [];
+
   return (
     <>
       <Nav />
@@ -45,7 +55,7 @@ export default async function WorkPage({ params }: { params: Promise<{ slug: str
         {project.type === "case-study" && (
           <div className="absolute inset-0">
             <Image
-              src={project.thumbnail}
+              src={heroImage}
               alt={project.title}
               fill
               priority
@@ -180,6 +190,30 @@ export default async function WorkPage({ params }: { params: Promise<{ slug: str
           )}
         </div>
       </article>
+
+      {/* ── Gallery ────────────────────────────────────────────── */}
+      {galleryRest.length > 0 && (
+        <section className="pb-24 px-8">
+          <div className="max-w-5xl mx-auto space-y-6 md:space-y-8">
+            {galleryRest.map((src, idx) => (
+              <div
+                key={src}
+                className="relative w-full overflow-hidden rounded-sm"
+                style={{ backgroundColor: "var(--color-bg-light)" }}
+              >
+                <Image
+                  src={src}
+                  alt={`${project.title} — ${idx + 1}`}
+                  width={2400}
+                  height={1350}
+                  sizes="(max-width: 768px) 100vw, (max-width: 1280px) 90vw, 1200px"
+                  className="block w-full h-auto"
+                />
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* ── Related ────────────────────────────────────────────── */}
       {related && related.length > 0 && (

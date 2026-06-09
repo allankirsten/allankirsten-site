@@ -17,7 +17,7 @@ export default function Home() {
         <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
           <AKGeometric />
         </div>
-        <div className="relative z-10 text-center px-8">
+        <div className="relative z-10 text-center px-8 max-w-4xl">
           <h1
             className="font-semibold leading-none tracking-tight"
             style={{
@@ -28,16 +28,26 @@ export default function Home() {
           >
             Allan Kirsten
           </h1>
-          <h2
-            className="mt-4 font-light"
+          <p
+            className="mt-6 font-semibold leading-tight"
             style={{
-              fontSize: "clamp(14px, 1.8vw, 24px)",
+              fontSize: "clamp(20px, 3vw, 36px)",
               color: "#ffffff",
               mixBlendMode: "exclusion",
             }}
           >
-            Creative Director · UX/UI Designer
-          </h2>
+            From impossible to done, by design.
+          </p>
+          <p
+            className="mt-4 font-light leading-snug"
+            style={{
+              fontSize: "clamp(14px, 1.6vw, 20px)",
+              color: "#ffffff",
+              mixBlendMode: "exclusion",
+            }}
+          >
+            I build products, teams and systems that survive complexity.
+          </p>
         </div>
       </section>
 
@@ -45,12 +55,9 @@ export default function Home() {
       <section className="py-24 px-8" style={{ backgroundColor: "var(--color-bg)" }}>
         <div className="max-w-3xl mx-auto text-center">
           <p
-            className="font-semibold leading-tight mb-6"
-            style={{ fontSize: "clamp(24px, 3.5vw, 44px)", color: "var(--color-dark)" }}
+            className="leading-relaxed"
+            style={{ fontSize: "clamp(18px, 2vw, 22px)", color: "var(--color-text)" }}
           >
-            From impossible to done by design.
-          </p>
-          <p className="text-base leading-relaxed" style={{ color: "var(--color-muted)" }}>
             In my 2-decade career, I&apos;ve consistently proven that when design leads, businesses win.
             I specialize in building lean design operations that scale efficiently, enhancing customer
             experiences, and using design to drive sustainable cost savings and competitive edge.
