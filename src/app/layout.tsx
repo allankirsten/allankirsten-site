@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Allan Kirsten — Creative Director & UX/UI Designer",
+  title: "From impossible to done, by design",
   description: "Portfolio of Allan Kirsten, Creative Director and UX/UI Designer based in Brazil.",
 };
 
