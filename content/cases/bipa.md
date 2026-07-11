@@ -4,7 +4,7 @@ slug: bipa
 title: Bipa
 tagline: "Do site institucional à plataforma de aquisição."
 company: Bipa
-role: "Design Lead (PJ)"
+role: "Design Lead (PJ, emprego atual)"
 period: "2025-hoje"
 category: "Product & Growth"
 order: 1
@@ -33,7 +33,7 @@ O site tinha páginas. Não tinha funil. Não tinha dado confiável. Não havia 
 
 Era uma vitrine sem caixa registradora.
 
-A Bipa é uma fintech Bitcoin-native no Brasil: 300 mil usuários, R$4 bilhões processados, conta PJ e PF com Bitcoin, USDT e cartão Mastercard com cashback em BTC. Entrei como Design Lead e o papel virou outra coisa: builder de infraestrutura de produto operando ao mesmo tempo em pesquisa, estratégia, dados, código, CRM e design.
+A Bipa é uma fintech Bitcoin-native no Brasil: 300 mil usuários, R$4 bilhões processados, conta PJ e PF com Bitcoin, USDT e cartão Mastercard com cashback em BTC. É onde trabalho hoje, meu emprego atual full-time, não um case encerrado. Entrei como Design Lead e o papel virou outra coisa: builder de infraestrutura de produto operando ao mesmo tempo em pesquisa, estratégia, dados, código, CRM e design.
 
 ## O impacto primeiro
 

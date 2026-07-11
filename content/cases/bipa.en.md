@@ -4,7 +4,7 @@ slug: bipa
 title: Bipa
 tagline: "From marketing site to acquisition platform."
 company: Bipa
-role: "Design Lead (contractor)"
+role: "Design Lead (contractor, current job)"
 period: "2025-present"
 category: "Product & Growth"
 order: 1
@@ -34,7 +34,7 @@ The site had pages. It had no funnel. It had no reliable data. There wasn't a si
 
 It was a storefront with no cash register.
 
-Bipa is a Bitcoin-native fintech in Brazil: 300 thousand users, R$4 billion processed, business and personal accounts with Bitcoin, USDT and a Mastercard card with cashback in BTC. I joined as Design Lead and the role became something else: a builder of product infrastructure operating at the same time across research, strategy, data, code, CRM and design.
+Bipa is a Bitcoin-native fintech in Brazil: 300 thousand users, R$4 billion processed, business and personal accounts with Bitcoin, USDT and a Mastercard card with cashback in BTC. This is where I work today, my current full-time job, not a closed case. I joined as Design Lead and the role became something else: a builder of product infrastructure operating at the same time across research, strategy, data, code, CRM and design.
 
 ## Impact first
 
