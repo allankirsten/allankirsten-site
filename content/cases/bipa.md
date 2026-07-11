@@ -33,7 +33,7 @@ O site tinha páginas. Não tinha funil. Não tinha dado confiável. Não havia 
 
 Era uma vitrine sem caixa registradora.
 
-A Bipa é uma fintech Bitcoin-native no Brasil: 300 mil usuários, R$4 bilhões processados, conta PJ e PF com Bitcoin, USDT e cartão Mastercard com cashback em BTC. É onde trabalho hoje, meu emprego atual, não um case encerrado. Entrei como Design Lead e o papel virou outra coisa: builder de infraestrutura de produto operando ao mesmo tempo em pesquisa, estratégia, dados, código, CRM e design.
+A Bipa é uma fintech Bitcoin-native no Brasil: 300 mil usuários, R$4 bilhões processados, conta PJ e PF com Bitcoin, USDT e cartão Mastercard com cashback em BTC. É onde trabalho hoje, meu emprego atual, não um case encerrado. Entrei como Design Lead e continuo liderando o design, reforçando também os gaps que o momento da empresa pede: pesquisa, estratégia, dados, código e CRM.
 
 ## O impacto primeiro
 

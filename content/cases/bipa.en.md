@@ -34,7 +34,7 @@ The site had pages. It had no funnel. It had no reliable data. There wasn't a si
 
 It was a storefront with no cash register.
 
-Bipa is a Bitcoin-native fintech in Brazil: 300 thousand users, R$4 billion processed, business and personal accounts with Bitcoin, USDT and a Mastercard card with cashback in BTC. This is where I work today, my current job, not a closed case. I joined as Design Lead and the role became something else: a builder of product infrastructure operating at the same time across research, strategy, data, code, CRM and design.
+Bipa is a Bitcoin-native fintech in Brazil: 300 thousand users, R$4 billion processed, business and personal accounts with Bitcoin, USDT and a Mastercard card with cashback in BTC. This is where I work today, my current job, not a closed case. I joined as Design Lead and I still lead design, while also reinforcing whatever gaps the company's current moment calls for: research, strategy, data, code and CRM.
 
 ## Impact first
 
