@@ -40,3 +40,52 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+/* Rendered markdown content (pages and cases) */
+.prose-ak {
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--color-text);
+}
+.prose-ak h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  line-height: 1.1;
+}
+.prose-ak h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 2.75rem 0 0.75rem;
+}
+.prose-ak h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 2rem 0 0.5rem;
+}
+.prose-ak p { margin: 0 0 1.15rem; }
+.prose-ak strong { font-weight: 700; }
+.prose-ak ul { margin: 0 0 1.15rem; padding-left: 1.25rem; list-style: disc; }
+.prose-ak li { margin: 0.3rem 0; }
+.prose-ak a { color: var(--color-accent); text-decoration: underline; }
+.prose-ak blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  color: var(--color-muted);
+  font-style: italic;
+}
+.prose-ak table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+.prose-ak th, .prose-ak td {
+  border: 1px solid var(--color-bg-mid);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+.prose-ak th { background: var(--color-bg-light); font-weight: 600; }
