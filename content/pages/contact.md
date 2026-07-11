@@ -2,7 +2,7 @@
 type: page
 slug: contact
 title: Contato
-order: 9
+order: 10
 nav: true
 summary: >
   Tem um projeto, uma oportunidade ou só quer trocar ideia? Manda um
