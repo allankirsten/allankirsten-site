@@ -29,6 +29,16 @@ Claude is not a chatbot that answers questions. It is an operational extension. 
 
 I keep a vault of hundreds of interlinked notes that works as persistent memory: read and write rules, templates, cross-linking, automated sync. It is not a note collection, it is decision infrastructure. When I step into a new problem, the context is already there, versioned and navigable, for me and for any AI I point at it. This site is a public slice of that.
 
+## The frameworks, and the process that connects them
+
+I don't cite frameworks as loose buzzwords. I use a small set that fits into a real decision sequence, not three names dropped in the same sentence:
+
+- **Continuous Discovery (Teresa Torres):** discovery doesn't stop when the project starts. Outcomes over outputs, continuous interviewing, and an Opportunity Solution Tree mapping outcome, opportunity, solution and experiment before any line of code.
+- **The 4 risks (Marty Cagan, SVPG):** before prioritizing any feature, I validate value, usability, viability and business in that order. If it doesn't map to a real job, it has no value. If it breaks a business principle, it needs an exceptional justification.
+- **Forces of progress (Bob Moesta, JTBD):** to know if the user really changes behavior, I measure push and pull against anxiety and habit. If push and pull don't outweigh anxiety and habit, the product doesn't shift any behavior, no matter how nice the screen looks.
+
+The process is what matters, more than any single framework: I find the right outcome with continuous discovery, validate the right risk with Cagan's 4 risks, and measure whether the solution actually moves behavior with Moesta's forces. Each one has a function in the sequence, none replaces the other, and none is worth anything without the next.
+
 ## The stack
 
 I use whatever the problem asks for, at any layer:

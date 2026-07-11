@@ -15,7 +15,7 @@ summary: >
 
 I'm not the designer who became a strategist. I'm the guy who builds businesses using design as a lever, and has the execution to prove it.
 
-I started in 1999 as a web designer. Since then I've moved through startups, fintechs, SaaS platforms, venture builders and high-growth environments, going from hands-on execution to strategic leadership without ever disconnecting from product, technology, user behavior and business impact.
+I'm 44, born in 1981. I started in 1999 as a web designer, at 18. Since then I've moved through startups, fintechs, SaaS platforms, venture builders and high-growth environments, going from hands-on execution to strategic leadership without ever disconnecting from product, technology, user behavior and business impact. Education in Industrial Design and Product Design (UNIVALI), Design Leadership (How Bootcamps, 2020) and Creative Business Planning and Strategy (PUC-Rio, 2008); full academic background at `/ai/en/experience`.
 
 My work lives at the intersection of five things: design, product, business, data and execution. That's not a LinkedIn tagline. It's what shows up in practice. In a single week I'll review a screen against Nielsen's heuristics, question the math behind an A/B test, write copy anchored in Jobs-to-be-Done, define the information architecture of a menu, write a lifecycle cron job in Rust and review the deploy of a pull request.
 

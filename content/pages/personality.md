@@ -34,3 +34,5 @@ Meus cinco pontos fortes de CliftonStrengths, e o que cada um faz aparecer no di
 ## O tom
 
 Duas referências resumem como eu gosto de trabalhar e comunicar. Dieter Rams, pela economia de palavra e a recusa do supérfluo: menos, mas melhor. E Anthony Bourdain, pela honestidade sem filtro e o respeito pelo craft. Direto, sem gordura, sem pose. Autonomia sim, superioridade não.
+
+Isso é como eu me vejo. Quem trabalhou comigo descreve de um jeito parecido, com nome e cargo, em `/ai/pt/testimonials`.

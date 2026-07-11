@@ -77,3 +77,5 @@ The jobs structure became the permanent context of an internal agent. Today the 
 93 pull requests in 4 months. Web signup 2.3x more efficient on organic. SEO and GEO from scratch, with GEO ahead of the market. Tracking from 30% to 100% coverage. 40 interviews that stopped being an archive and became decisions.
 
 The work equals a senior squad of 5 to 6 people operating in parallel. It was one person, operating in every layer because the problem called for it.
+
+I talked about design, usability and Bitcoin adoption on Bipa Cast #74, available on YouTube.

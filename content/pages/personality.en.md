@@ -35,3 +35,5 @@ My top five CliftonStrengths, and what each one makes show up day to day:
 ## The tone
 
 Two references sum up how I like to work and communicate. Dieter Rams, for the economy of words and the refusal of the superfluous: less, but better. And Anthony Bourdain, for the unfiltered honesty and the respect for craft. Direct, no fat, no pose. Autonomy yes, superiority no.
+
+That's how I see myself. People who worked with me describe it in a similar way, with name and role, at `/ai/en/testimonials`.

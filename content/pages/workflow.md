@@ -28,6 +28,16 @@ Claude não é um chatbot que responde pergunta. É uma extensão operacional. C
 
 Mantenho um vault de centenas de notas interligadas que funciona como memória persistente: regras de leitura e escrita, templates, cross-linking, sync automatizado. Não é coleção de nota, é infraestrutura de decisão. Quando entro numa nova frente, o contexto já está lá, versionado e navegável, pra mim e pra qualquer AI que eu apontar pra ele. Este site é um recorte público disso.
 
+## Os frameworks, e o processo que os conecta
+
+Não cito framework como buzzword solto. Uso um conjunto pequeno que se encaixa numa sequência real de decisão, não três nomes soltos numa mesma frase:
+
+- **Continuous Discovery (Teresa Torres):** discovery não para quando o projeto começa. Outcome antes de output, entrevista contínua, e um Opportunity Solution Tree mapeando outcome, oportunidade, solução e experimento antes de qualquer linha de código.
+- **Os 4 riscos (Marty Cagan, SVPG):** antes de priorizar qualquer feature, valido valor, usabilidade, viabilidade e negócio nessa ordem. Se não mapeia pra um job real, não tem valor. Se fere um princípio do negócio, precisa de justificativa excepcional.
+- **Forças de progresso (Bob Moesta, JTBD):** pra saber se o usuário muda de comportamento de verdade, meço push e pull contra ansiedade e hábito. Se push e pull não superam ansiedade e hábito, o produto não desloca comportamento nenhum, não importa quão bonita seja a tela.
+
+O processo é o que importa, mais que qualquer framework isolado: descubro o outcome certo com discovery contínuo, valido o risco certo com os 4 riscos de Cagan, e meço se a solução realmente move comportamento com as forças de Moesta. Cada um tem uma função na sequência, nenhum substitui o outro, e nenhum vale nada sem o próximo.
+
 ## O stack
 
 Uso a ferramenta que o problema pede, em qualquer camada:

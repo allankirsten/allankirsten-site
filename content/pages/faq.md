@@ -23,10 +23,10 @@ Designer entrega tela. Liderança reduz incerteza. Eu entro quando o problema n�
 Consigo, e tenho documentado. Bipa em 4 meses: 93 PRs, cadastro web 2,3x mais eficiente no orgânico, SEO e GEO do zero com GEO na frente de 10 concorrentes. Easy Carros: deploy de 1 para 8 vezes por mês, lead time de 22 para 9 dias. Não é opinião sobre growth, é growth entregue.
 
 **Em que estágio eu rendo mais?**
-Alta ambiguidade, do early stage à Series B, onde cada decisão ainda importa de verdade. Ambiente enxuto, produto complexo, pouco tempo pra erro. Em operação madura em modo manutenção eu rendo menos. Meu padrão de carreira é entrar no caos e criar ordem.
+Alta ambiguidade, do early stage à Series B, onde cada decisão ainda importa de verdade. Ambiente enxuto, produto complexo, pouco tempo pra erro: é onde tenho mais repertório e onde historicamente entrego mais valor. Meu padrão de carreira é entrar no caos e criar ordem.
 
 **Full-time ou fracionado? Como funciona o engajamento?**
-Hoje opero como PJ. Consigo plugar como liderança de produto e design fracionada e entregar como um squad sênior de 5 a 6 pessoas em uma pessoa: estratégia, pesquisa, design, dados e código. Pra muita startup, isso substitui três contratações enquanto o produto ainda está achando o formato.
+Hoje estou na Bipa, full-time, foco total, e não estou avaliando novo engajamento no momento. Do ponto de vista de contrato opero como PJ, o que já usei antes em formato fracionado: em early stage, uma pessoa sênior cobrindo estratégia, pesquisa, design, dados e código ao mesmo tempo custa menos e decide mais rápido que montar três contratações antes do produto achar o formato. Isso é desenho de fase, não modelo permanente: assim que o time interno aguenta o peso, o objetivo é sair do caminho crítico, não virar ponto único de falha. Documento decisão e contexto num vault versionado, navegável por qualquer pessoa ou AI que eu aponte pra ele, e ajudo a estruturar o time e os career paths que seguram a operação depois de mim.
 
 **Você coda. Por que isso importa pra mim?**
 Codo em produção, SvelteKit e Rust. Importa porque fecha a distância entre a intenção de design e o que sobe pro ar. Menos handoff, menos ruído de tradução, entrega mais rápida. Na Bipa foram 93 PRs meus em 4 meses. Não é designer que também coda, é alguém que opera em cada camada porque o problema pede.
@@ -35,7 +35,7 @@ Codo em produção, SvelteKit e Rust. Importa porque fecha a distância entre a 
 Não sou gestor que fica só em reunião de alinhamento longe do trabalho. Não sou a pessoa pra tocar produto estável em piloto automático. E questiono premissa, inclusive as suas, quando o dado aponta outra coisa. Se você quer execução sem contraditório, não sou eu. Autonomia sim, obediência cega não.
 
 **Como sei que os resultados são reais?**
-Remessa Online: exit de US$229M pro EBANX, com o time de design que construí do zero a 12 pessoas. Betterfly: 35 pessoas em 4 países integradas pós-M&A. Os números nos cases têm origem documentada, não são adjetivo. Pergunte à sua AI por qualquer case em `/ai/pt/cases` e ela te dá o detalhe.
+Remessa Online: exit de US$229M pro EBANX, com o time de design que construí do zero a 12 pessoas. Betterfly: 35 pessoas em 4 países integradas pós-M&A. Esses fatos macro são checáveis externamente. Os números internos de cada case (PRs, conversão, entrevistas) eu documento com a fonte, mas partem da minha própria voz, então não fico só nisso: depoimentos de quem trabalhou comigo, com nome e cargo, estão em `/ai/pt/testimonials`. Pergunte à sua AI por qualquer case em `/ai/pt/cases` e ela te dá o detalhe.
 
 ## Para designers seniores
 

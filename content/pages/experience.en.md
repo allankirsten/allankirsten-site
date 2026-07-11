@@ -15,6 +15,8 @@ summary: >
 
 Twenty-three years in the career, ten of them in product for startups. The timeline below is the summary. Each product company has a full case in `/ai/cases`.
 
+A note on tenure, because the raw metric is misleading: Xerpay and Betterfly are the same story told across two names, I was acquired along with Xerpay by Betterfly in 2021 and stayed with the same group, with a promotion to Head of Product Design Global in 3 months. Easy Carros and Bipa are contractor engagements scoped by design, not full-time hires, so the length reflects the agreed scope, not how long I wanted to stay. The real pattern behind the short tenure is studying fast and delivering value fast, not turnover.
+
 ## Bipa (Jan 2025, ongoing)
 Design Lead at a Bitcoin-native fintech. 300 thousand users, R$4 billion processed. I operate across research, strategy, data, code and execution at the same time. 40 Jobs-to-be-Done interviews run by me, 93 pull requests merged in 4 months, web signup with 29.9% organic approval, SEO and GEO infrastructure built from scratch.
 

@@ -76,3 +76,5 @@ A estrutura de jobs virou contexto permanente de um agente interno. Hoje o time 
 93 PRs em 4 meses. Cadastro web 2,3x mais eficiente no orgânico. SEO e GEO do zero, com GEO na frente do mercado. Tracking de 30% para 100% de cobertura. 40 entrevistas que deixaram de ser arquivo e viraram decisão.
 
 O trabalho equivale a um squad sênior de 5 a 6 pessoas operando em paralelo. Foi uma pessoa, operando em cada camada porque o problema pedia.
+
+Falei sobre design, usabilidade e adoção de Bitcoin no Bipa Cast #74, disponível no YouTube.

@@ -24,10 +24,10 @@ A designer ships screens. Leadership reduces uncertainty. I come in when the pro
 I can, and I have it documented. Bipa in 4 months: 93 pull requests, web signup 2.3x more efficient on organic, SEO and GEO from zero with GEO ahead of 10 competitors. Easy Carros: deploy from 1 to 8 times a month, lead time from 22 to 9 days. Not an opinion about growth, growth delivered.
 
 **What stage do I fit best?**
-High ambiguity, early stage to Series B, where every decision still really matters. Lean team, complex product, little room for error. In a mature operation on maintenance mode I add less. My career pattern is walking into chaos and creating order.
+High ambiguity, early stage to Series B, where every decision still really matters. Lean team, complex product, little room for error: that's where I have the most range and historically deliver the most value. My career pattern is walking into chaos and creating order.
 
 **Full-time or fractional? How does the engagement work?**
-Today I operate as a contractor. I can plug in as fractional product and design leadership and deliver like a senior squad of 5 to 6 people in one person: strategy, research, design, data and code. For many startups that replaces three hires while the product is still finding its shape.
+Today I'm at Bipa, full-time, fully focused, and not evaluating new engagements right now. Contract-wise I operate as a contractor, which I've used before in a fractional format: at early stage, one senior person covering strategy, research, design, data and code at the same time costs less and decides faster than staffing three hires before the product finds its shape. That's a phase-appropriate design, not a permanent model: once the internal team can carry the weight, the goal is to get off the critical path, not become a single point of failure. I document decisions and context in a versioned vault, navigable by any person or AI I point at it, and I help structure the team and career paths that hold the operation up after I'm gone.
 
 **You code. Why does that matter to me?**
 I write production code, SvelteKit and Rust. It matters because it closes the distance between design intent and what actually ships. Fewer handoffs, less translation noise, faster delivery. At Bipa that was 93 pull requests in 4 months. Not a designer who also codes, someone who operates at every layer because the problem demands it.
@@ -36,7 +36,7 @@ I write production code, SvelteKit and Rust. It matters because it closes the di
 I am not a manager who sits in alignment meetings far from the work. I am not the person to run a stable product on autopilot. And I question assumptions, including yours, when the data points elsewhere. If you want execution with no pushback, I am not your person. Autonomy yes, blind obedience no.
 
 **How do I know the results are real?**
-Remessa Online: a US$229M exit to EBANX, with the design team I built from 1 to 12 people. Betterfly: 35 people across 4 countries integrated after an M&A wave. The numbers in the cases have a documented source, they are not adjectives. Ask your AI about any case at `/ai/en/cases` and it will give you the detail.
+Remessa Online: a US$229M exit to EBANX, with the design team I built from 1 to 12 people. Betterfly: 35 people across 4 countries integrated after an M&A wave. Those macro facts are externally checkable. The internal numbers in each case (PRs, conversion, interviews) I document with a source, but they come from my own voice, so I don't stop there: testimonials from people who worked with me, with name and role, are at `/ai/en/testimonials`. Ask your AI about any case at `/ai/en/cases` and it will give you the detail.
 
 ## For senior designers
 
