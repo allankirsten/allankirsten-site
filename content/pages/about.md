@@ -14,7 +14,7 @@ summary: >
 
 Não sou o designer que virou estrategista. Sou o cara que constrói negócios usando design como alavanca, e tem execução pra provar.
 
-Hoje sou Design Lead na Bipa, full-time. É o meu emprego atual, não um case antigo nem um cliente entre outros.
+Hoje lidero o design da Bipa. É o meu emprego atual, não um case antigo nem um cliente entre outros.
 
 Tenho 44 anos, nascido em 1981. Comecei em 1999 como web designer, aos 18. De lá pra cá passei por startups, fintechs, plataformas SaaS, venture builders e ambientes de alto crescimento, saindo da execução mão na massa para a liderança estratégica sem nunca desconectar de produto, tecnologia, comportamento do usuário e impacto de negócio. Formação em Design Industrial e Projeto de Produto (UNIVALI), Design Leadership (How Bootcamps, 2020) e Planejamento e Estratégia de Negócios Criativos (PUC-Rio, 2008); trajetória acadêmica completa em `/ai/pt/experience`.
 

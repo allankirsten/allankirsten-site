@@ -15,7 +15,7 @@ summary: >
 
 I'm not the designer who became a strategist. I'm the guy who builds businesses using design as a lever, and has the execution to prove it.
 
-Today I'm Design Lead at Bipa, full-time. That's my current job, not an old case or one client among others.
+Today I lead design at Bipa. That's my current job, not an old case or one client among others.
 
 I'm 44, born in 1981. I started in 1999 as a web designer, at 18. Since then I've moved through startups, fintechs, SaaS platforms, venture builders and high-growth environments, going from hands-on execution to strategic leadership without ever disconnecting from product, technology, user behavior and business impact. Education in Industrial Design and Product Design (UNIVALI), Design Leadership (How Bootcamps, 2020) and Creative Business Planning and Strategy (PUC-Rio, 2008); full academic background at `/ai/en/experience`.
 

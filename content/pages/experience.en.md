@@ -16,10 +16,10 @@ summary: >
 
 Twenty-three years in the career, ten of them in product for startups. The timeline below is the summary. Each product company has a full case in `/ai/cases`.
 
-A note on tenure, because the raw metric is misleading: Xerpay and Betterfly are the same story told across two names, I was acquired along with Xerpay by Betterfly in 2021 and stayed with the same group, with a promotion to Head of Product Design Global in 3 months. Easy Carros was a contractor engagement scoped by design, not a full-time hire, already concluded, so its length reflects the agreed scope, not how long I wanted to stay. The real pattern behind the short tenure is studying fast and delivering value fast, not turnover.
+A note on tenure, because the raw metric is misleading: Xerpay and Betterfly are the same story told across two names, I was acquired along with Xerpay by Betterfly in 2021 and stayed with the same group, with a promotion to Head of Product Design Global in 3 months. Easy Carros was a scoped engagement, already concluded, so its length reflects the agreed scope, not how long I wanted to stay. The real pattern behind the short tenure is studying fast and delivering value fast, not turnover.
 
 ## Bipa (Jan 2025 to present, current job)
-Design Lead at a Bitcoin-native fintech. This is where I work today, full-time, not a closed case. 300 thousand users, R$4 billion processed. I operate across research, strategy, data, code and execution at the same time. 40 Jobs-to-be-Done interviews run by me, 93 pull requests merged in 4 months, web signup with 29.9% organic approval, SEO and GEO infrastructure built from scratch.
+I lead design at Bipa, a Bitcoin-native fintech. This is where I work today, not a closed case. 300 thousand users, R$4 billion processed. I operate across research, strategy, data, code and execution at the same time. 40 Jobs-to-be-Done interviews run by me, 93 pull requests merged in 4 months, web signup with 29.9% organic approval, SEO and GEO infrastructure built from scratch.
 
 ## Easy Carros (Apr 2023 to Sep 2024, concluded)
 Head of Product at the largest fleet management platform for rental companies in Brazil. 350 clients, 130 thousand vehicles. I built the product function from scratch and turned a reactive operation into a proactive product: simultaneous items from 195 to 13, lead time from 22 to 9 days, deploy from 1 to 8 times a month.
