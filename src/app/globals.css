@@ -11,6 +11,12 @@
   --color-bg-light:   #F2F2F2;
   --color-bg-mid:     #D9DADA;
   --color-footer:     #242424;
+
+  /* AK Design System (dark). Fonts come from next/font: var(--font-display),
+     var(--font-atkinson), set on <html> in layout.tsx. */
+  --ds-bg:      #0D0D0D;
+  --ds-text:    #F5F0E8;
+  --ds-accent:  #C8A96E;
 }
 
 @theme inline {

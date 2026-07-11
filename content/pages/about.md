@@ -32,4 +32,4 @@ Continuo mão na massa mesmo quando não preciso. Escrevo código de produção 
 
 Ajudo empresas a transformar complexidade em clareza. Construo sistemas, times e estratégias de produto feitos pra escalar. E gosto genuinamente de resolver problema difícil.
 
-Do impossível ao entregue, por design.
+Do caos ao entregue, por design.

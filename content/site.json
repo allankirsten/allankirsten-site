@@ -15,30 +15,58 @@
       "context": "Ten years in product. Fintechs, SaaS, venture builders. Teams from 1 to 35 people. One $229M exit."
     }
   },
-  "proof": [
-    {
-      "label": "Remessa Online",
-      "value": "exit US$229M (EBANX)"
-    },
-    {
-      "label": "Betterfly",
-      "value": "US$125M Series C, unicórnio LATAM"
-    },
-    {
-      "label": "Time global pós-M&A",
-      "value": "35 pessoas, 4 países, 3 idiomas"
-    },
-    {
-      "label": "Carreira",
-      "value": "10 anos em produto, 23 em design"
-    }
-  ],
-  "philosophy": [
-    "Design não é estética. É uma capacidade de negócio.",
-    "Pesquisa sem decisão é arquivo.",
-    "Posso te ajudar a decidir enquanto o design entrega valor.",
-    "A provocação mais eficiente é o contraste, não a crítica."
-  ],
+  "proof": {
+    "pt": [
+      {
+        "label": "Remessa Online",
+        "value": "exit US$229M (EBANX)"
+      },
+      {
+        "label": "Betterfly",
+        "value": "US$125M Series C, unicórnio LATAM"
+      },
+      {
+        "label": "Time global pós-M&A",
+        "value": "35 pessoas, 4 países, 3 idiomas"
+      },
+      {
+        "label": "Carreira",
+        "value": "10 anos em produto, 23 em design"
+      }
+    ],
+    "en": [
+      {
+        "label": "Remessa Online",
+        "value": "US$229M exit (EBANX)"
+      },
+      {
+        "label": "Betterfly",
+        "value": "US$125M Series C, LATAM unicorn"
+      },
+      {
+        "label": "Global team, post-M&A",
+        "value": "35 people, 4 countries, 3 languages"
+      },
+      {
+        "label": "Career",
+        "value": "10 years in product, 23 in design"
+      }
+    ]
+  },
+  "philosophy": {
+    "pt": [
+      "Design não é estética. É uma capacidade de negócio.",
+      "Pesquisa sem decisão é arquivo.",
+      "Posso te ajudar a decidir enquanto o design entrega valor.",
+      "A provocação mais eficiente é o contraste, não a crítica."
+    ],
+    "en": [
+      "Design is not aesthetics. It is a business capability.",
+      "Research without a decision is just an archive.",
+      "I can help you decide while design delivers value.",
+      "The most effective provocation is contrast, not criticism."
+    ]
+  },
   "contact": {
     "email": "allankirsten@gmail.com",
     "linkedin": "https://www.linkedin.com/in/allankirsten"

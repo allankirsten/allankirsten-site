@@ -4,56 +4,46 @@ export default function Home() {
   return (
     <div
       style={{
-        background: "#000",
+        background: "var(--ds-bg)",
+        color: "var(--ds-text)",
         minHeight: "100vh",
         flex: 1,
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
-        gap: "8px",
+        gap: "10px",
         padding: "24px",
         textAlign: "center",
+        fontFamily: "var(--font-atkinson)",
       }}
     >
-      <p
-        style={{
-          color: "#fff",
-          fontFamily: "sans-serif",
-          fontSize: "14px",
-          letterSpacing: "0.2em",
-          opacity: 0.5,
-        }}
-      >
+      <p style={{ fontSize: "0.875rem", letterSpacing: "0.02em", opacity: 0.5 }}>
         Allan Kirsten
       </p>
       <p
         style={{
-          color: "#fff",
-          fontFamily: "sans-serif",
-          fontSize: "12px",
-          letterSpacing: "0.1em",
-          opacity: 0.3,
+          fontFamily: "var(--font-display)",
+          fontSize: "clamp(1.75rem, 4vw, 2.5rem)",
+          lineHeight: 1.1,
+          letterSpacing: "-0.01em",
         }}
       >
-        From impossible to done, by design
+        From chaos to done, by design
       </p>
 
       <Link
         href="/ai"
         style={{
           marginTop: "40px",
-          color: "#fff",
-          fontFamily: "sans-serif",
-          fontSize: "12px",
-          letterSpacing: "0.15em",
-          opacity: 0.4,
+          fontSize: "0.9375rem",
+          color: "var(--ds-accent)",
           textDecoration: "none",
-          borderBottom: "1px solid rgba(255,255,255,0.2)",
+          borderBottom: "1px solid rgba(200,169,110,0.4)",
           paddingBottom: "4px",
         }}
       >
-        POINT YOUR AI HERE →
+        Point your AI here →
       </Link>
     </div>
   );

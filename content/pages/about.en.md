@@ -8,7 +8,7 @@ lang: en
 summary: >
   Product and design leader. Ten years building product for startups,
   twenty-three in the career. I work at the intersection of design, product,
-  business, data and execution. From chaos to shipped, by design.
+  business, data and execution. From chaos to done, by design.
 ---
 
 # About
@@ -33,4 +33,4 @@ I stay hands-on even when I don't have to. I write production code not because I
 
 I help companies turn complexity into clarity. I build systems, teams and product strategies made to scale. And I genuinely enjoy solving hard problems.
 
-From impossible to shipped, by design.
+From chaos to done, by design.
