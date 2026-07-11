@@ -34,7 +34,7 @@ The site had pages. It had no funnel. It had no reliable data. There wasn't a si
 
 It was a storefront with no cash register.
 
-Bipa is a Bitcoin-native fintech in Brazil: 300 thousand users, R$4 billion processed, business and personal accounts with Bitcoin, USDT and a Mastercard card with cashback in BTC. This is where I work today, my current job, not a closed case. I joined as Design Lead and I still lead design. Looking at the business as a whole, I saw the biggest opportunity to scale was in growth, performance and marketing, and used design strategy as a low-cost lever to set that up: research, data, code and CRM came with it.
+Bipa is a Bitcoin-native fintech in Brazil: 300 thousand users, R$4 billion processed, business and personal accounts with Bitcoin, USDT and a Mastercard card with cashback in BTC. This is where I work today, my current job, not a closed case. I'm Design Lead, part of the product trio with a PM and a tech lead, in the strategic, tactical and operational design rituals, and I coordinate the team's brand designer. Looking at the business as a whole, I saw the biggest opportunity to scale was in growth, performance and marketing: I built the setup and I'm now handing it off. That's how I operate, scale a front, hand back the direction, move to the next one.
 
 ## Impact first
 
