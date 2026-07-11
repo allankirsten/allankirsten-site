@@ -13,23 +13,35 @@ export default function AiIndex() {
   const pages = getPages("en").filter((p) => p.slug !== "contact");
   const cases = getCases("en");
 
-  const linkStyle =
-    "block py-1 text-white/70 hover:text-white transition-colors";
+  const link = "block py-1 transition-colors";
 
   return (
     <main
       className="min-h-screen flex flex-col items-center px-6 py-24"
-      style={{ background: "#000" }}
+      style={{
+        background: "var(--ds-bg)",
+        color: "var(--ds-text)",
+        fontFamily: "var(--font-atkinson)",
+      }}
     >
       <div className="w-full max-w-xl">
-        <p className="text-xs tracking-[0.3em] uppercase text-white/30 mb-8">
+        <p className="mb-8" style={{ fontSize: "0.875rem", color: "rgba(245,240,232,0.45)", letterSpacing: "0.02em" }}>
           {site.name}
         </p>
 
-        <h1 className="text-2xl md:text-3xl font-semibold text-white leading-snug mb-4">
+        <h1
+          style={{
+            fontFamily: "var(--font-display)",
+            fontSize: "clamp(2.25rem, 5vw, 3.25rem)",
+            lineHeight: 1.05,
+            letterSpacing: "-0.01em",
+            marginBottom: "1rem",
+          }}
+        >
           Point your AI here.
         </h1>
-        <p className="text-white/50 leading-relaxed mb-10">
+
+        <p style={{ fontSize: "1.125rem", lineHeight: 1.6, color: "rgba(245,240,232,0.65)", marginBottom: "2.5rem" }}>
           This site is written to be read by machines too. Give your assistant
           the address below and ask anything about my work, my track record, or
           how I operate. Portuguese versions swap <code>/en/</code> for{" "}
@@ -39,32 +51,46 @@ export default function AiIndex() {
         <div className="mb-12">
           <a
             href="/llms.txt"
-            className="inline-block px-5 py-3 rounded-full text-sm font-mono border border-white/15 text-white/90 hover:border-white/40 transition-colors"
+            className="inline-block transition-colors"
+            style={{
+              fontFamily: "var(--font-mono, monospace)",
+              fontSize: "0.9375rem",
+              color: "var(--ds-accent)",
+              textDecoration: "none",
+              borderBottom: "1px solid rgba(200,169,110,0.4)",
+              paddingBottom: "4px",
+            }}
           >
-            allankirsten.com/llms.txt
+            allankirsten.com/llms.txt →
           </a>
         </div>
 
-        <p className="text-xs tracking-[0.25em] uppercase text-white/30 mb-3">
+        <p style={{ fontSize: "0.875rem", color: "var(--ds-accent)", marginBottom: "0.75rem" }}>
           Pages
         </p>
-        <div className="mb-10 font-mono text-sm">
+        <div className="mb-10 text-sm" style={{ fontFamily: "monospace" }}>
           {pages.map((p) => (
-            <a key={p.slug} href={`/ai/en/${p.slug}`} className={linkStyle}>
+            <a
+              key={p.slug}
+              href={`/ai/en/${p.slug}`}
+              className={link}
+              style={{ color: "rgba(245,240,232,0.65)" }}
+            >
               /ai/en/{p.slug}
             </a>
           ))}
         </div>
 
-        <p className="text-xs tracking-[0.25em] uppercase text-white/30 mb-3">
+        <p style={{ fontSize: "0.875rem", color: "var(--ds-accent)", marginBottom: "0.75rem" }}>
           Cases
         </p>
-        <div className="mb-12 font-mono text-sm">
+        <div className="mb-12 text-sm" style={{ fontFamily: "monospace" }}>
           {cases.map((c) => (
             <a
               key={c.slug}
               href={`/ai/en/cases/${c.slug}`}
-              className={linkStyle}
+              className={link}
+              style={{ color: "rgba(245,240,232,0.65)" }}
             >
               /ai/en/cases/{c.slug}
             </a>
@@ -72,13 +98,10 @@ export default function AiIndex() {
         </div>
 
         <div className="flex gap-6 text-sm">
-          <a
-            href={`mailto:${site.contact.email}`}
-            className="text-white/50 hover:text-white transition-colors"
-          >
+          <a href={`mailto:${site.contact.email}`} style={{ color: "var(--ds-accent)" }}>
             {site.contact.email}
           </a>
-          <Link href="/" className="text-white/50 hover:text-white transition-colors">
+          <Link href="/" style={{ color: "rgba(245,240,232,0.45)" }}>
             ← home
           </Link>
         </div>
