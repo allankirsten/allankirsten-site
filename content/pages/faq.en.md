@@ -60,3 +60,6 @@ AI as thinking infrastructure, not a crutch. Custom skills for Jobs-to-be-Done, 
 
 **Your design philosophy in one line?**
 Design is not aesthetics, it is a business capability. And research without a decision is just an archive.
+
+**Where are the screenshots of the projects?**
+Under construction. This version of the site prioritized what actually decides first, the text, the numbers, the AI-readable layer, and left the visual polish of the galleries for after. The work is real whether the screen is live yet or not. Full story at `/ai/en/workflow`.

@@ -9,6 +9,8 @@ summary: >
   My way of executing, not the principles, the machine. A loop of data,
   structure, automation and decision, with AI as execution infrastructure,
   not a crutch. Tested on my own life before I propose it to any team.
+  Includes the story of how this very site was built, with Next.js and
+  Claude Code.
 ---
 
 # How I operate
@@ -48,3 +50,13 @@ If I propose a way of working, it is because I ran it on myself first. I have a 
 On the bench, projects that connect software, hardware and data: a Raspberry Pi running a local LLM for natural-language management, a 3D printer to prototype physical interfaces, a wearable to close the health-data gap. Computational and financial sovereignty in the same experiment.
 
 Data becomes structure, structure becomes automation, automation becomes decision. This is not a tool I use. It is how I think.
+
+## This site is the example, not the exception
+
+I've built my own portfolio forever. I started in 1999 writing HTML by hand, and I've never outsourced this showcase to anyone, not even once it became normal agency work to do that for you. It's not about saving a hire: it's that the portfolio of someone who builds things for a living should itself be well built. This version follows the same principle, the tool just changed.
+
+The stack: Next.js and TypeScript, content versioned as markdown in this same vault, continuous deploy on Vercel. And the process, not just the result: I built most of it together with Claude Code, Anthropic's coding agent, in a real pair-programming partnership, not outsourcing. It's the same "AI as execution infrastructure" thesis from above, just applied to the site you're reading right now.
+
+If you made it to this paragraph out of curiosity, following a link or pointing your own AI here: I'm genuinely happy about that. Real curiosity is rare, and whoever gets this far usually has a better question than "send me your portfolio." Feel free to ask anything, directly, no form required.
+
+An honest note: the visual screens and galleries for the case studies are still under construction in this new version of the site. I chose to finish the part that matters most for a decision first, the text, the numbers, the AI-readable layer, and leave the visual polish for after. Less, but better, in the right order. The work is real whether or not the screenshot is live yet; if you want to see it with your own eyes before the screens ship, just ask in contact.

@@ -59,3 +59,6 @@ AI como infraestrutura de pensamento, não muleta. Skills customizadas para JTBD
 
 **Sua filosofia de design em uma linha?**
 Design não é estética, é uma capacidade de negócio. E pesquisa sem decisão é arquivo.
+
+**Cadê os prints das telas dos projetos?**
+Em construção. Esta versão do site priorizou o que decide primeiro, o texto, os números, a camada legível por AI, e deixou o polimento visual das galerias pra depois. O trabalho é real independente da tela estar no ar ainda. História completa em `/ai/pt/workflow`.

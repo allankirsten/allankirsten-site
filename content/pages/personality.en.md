@@ -23,7 +23,7 @@ My top five CliftonStrengths, and what each one makes show up day to day:
 - **Achiever.** I close the loop. I don't leave things open. An idea without execution doesn't satisfy me, so every piece of work ends with what got delivered.
 - **Focus.** No fat. Every sentence, every screen, every meeting has a function. What doesn't serve gets cut.
 - **Competition.** The pushback has grounds. I question not to stand out, but because I already know a better way exists and I want to get there.
-- **Relationship.** It is what keeps the rest from turning cold or arrogant. The honesty has warmth. Trust and genuine connection are where a high-performance team is born.
+- **Relationship.** It is what keeps the rest from turning cold or arrogant. The honesty has warmth. Trust and genuine connection are where a high-performance team is born. I have an excellent relationship with the people I work with, and that is not an accident: I cultivate it on purpose.
 
 ## The recurring patterns
 

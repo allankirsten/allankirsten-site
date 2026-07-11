@@ -8,7 +8,8 @@ summary: >
   Meu jeito de executar, não os princípios, a máquina. Um loop de dados,
   estrutura, automação e decisão, com AI como infraestrutura de execução,
   não como muleta. Testado na minha própria vida antes de propor a
-  qualquer time.
+  qualquer time. Inclui a história de como este próprio site foi
+  construído, com Next.js e Claude Code.
 ---
 
 # Como eu opero
@@ -48,3 +49,13 @@ Se eu proponho um jeito de trabalhar, é porque rodei em mim antes. Tenho um sis
 Na bancada, projetos que conectam software, hardware e dados: um Raspberry Pi rodando LLM local pra gestão por linguagem natural, impressora 3D pra prototipar interface física, um wearable pra fechar o gap de dados de saúde. Soberania computacional e financeira no mesmo experimento.
 
 Dados viram estrutura, estrutura vira automação, automação vira decisão. Isso não é ferramenta que eu uso. É como eu penso.
+
+## Este site é o exemplo, não a exceção
+
+Construo meu próprio portfólio desde sempre. Comecei em 1999 escrevendo HTML na mão, e nunca terceirizei essa vitrine pra ninguém, nem quando virou coisa de agência fazer isso. Não é sobre economizar contratação: é que o portfólio de quem constrói coisa por profissão devia ser, ele mesmo, uma coisa bem construída. Esta versão segue o mesmo princípio, só que a ferramenta mudou.
+
+O stack: Next.js e TypeScript, conteúdo versionado em markdown neste mesmo vault, deploy contínuo na Vercel. E o processo, não só o resultado: construí boa parte junto com o Claude Code, o agente de coding da Anthropic, numa parceria real de pair programming, não terceirização. É a mesma tese do "AI como infraestrutura de execução" lá de cima, só que aplicada no site que você está lendo agora.
+
+Se você chegou até este texto por curiosidade, seguindo um link ou apontando sua própria AI pra cá: fico genuinamente feliz. Curiosidade de verdade é rara, e quem chega até aqui geralmente tem uma pergunta melhor do que "manda seu portfólio". Fica à vontade pra perguntar qualquer coisa, direto, sem formulário.
+
+Uma nota honesta: as telas e galerias visuais dos cases ainda estão em construção nesta versão nova do site. Escolhi terminar primeiro a parte que importa mais pra decisão, o texto, os números, a camada legível por AI, e deixar o polimento visual pra depois. Menos, mas melhor, na ordem certa. O trabalho é real independente do print estar no ar ainda; se quiser ver com os próprios olhos antes das telas subirem, é só perguntar no contato.

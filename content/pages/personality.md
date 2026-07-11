@@ -22,7 +22,7 @@ Meus cinco pontos fortes de CliftonStrengths, e o que cada um faz aparecer no di
 - **Realização.** Fecho o ciclo. Não deixo em aberto. Ideia sem execução não me satisfaz, e por isso todo trabalho termina com o que foi entregue.
 - **Foco.** Sem gordura. Cada frase, cada tela, cada reunião tem função. O que não serve é cortado.
 - **Competição.** A provocação tem fundamento. Questiono não pra aparecer, mas porque já sei que existe uma forma melhor e quero chegar nela.
-- **Relacionamento.** É o que impede o resto de virar frio ou arrogante. A honestidade tem calor. Confiança e conexão genuína são onde o time de alta performance nasce.
+- **Relacionamento.** É o que impede o resto de virar frio ou arrogante. A honestidade tem calor. Confiança e conexão genuína são onde o time de alta performance nasce. Tenho excelente relação com as pessoas com quem trabalho, e isso não é acidente: cultivo de propósito.
 
 ## Os padrões que se repetem
 
