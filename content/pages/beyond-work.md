@@ -2,25 +2,27 @@
 type: page
 slug: beyond-work
 title: Além do trabalho
-order: 4
+order: 6
 nav: true
 summary: >
-  Corrida, mergulho, games, música e viagem. Curiosidade por
-  comportamento humano e sistemas criativos. Um OS pessoal de dados
-  e automação rodando fora do expediente.
+  Corrida, mergulho, games, música e viagem. Curiosidade por comportamento
+  humano e sistemas criativos. Craft desde criança: é onde o olhar de hoje
+  nasceu.
 ---
 
 # Além do trabalho
 
-Fora do trabalho, o que me move: corrida, mergulho, games, música, viagem, tecnologia, comportamento humano e sistemas criativos.
+Fora do trabalho, o que me move: corrida, mergulho, games, música, viagem e tecnologia.
 
-Tenho um interesse forte em como as pessoas colaboram, aprendem e constroem coisas ambiciosas juntas. É a mesma curiosidade que aparece no trabalho, só sem o crachá.
+## Hobbies
 
-## O OS pessoal
+Corro, e trato corrida como todo o resto: com dado. Strava e Garmin alimentando um sistema que acompanha a evolução ao longo do tempo. Mergulho pelo silêncio e pela atenção que ele exige. Games e música entram como descompressão e como estudo de sistema, dá pra aprender muito de design olhando como um bom jogo ensina sem tutorial. Viagem pra sair do próprio contexto e ver como outras pessoas resolvem as mesmas coisas de um jeito diferente.
 
-O que faço no expediente vaza pra fora dele. Rodo uma infraestrutura pessoal de dados e automação: Strava e Garmin alimentando um sistema de saúde, faturas processadas por AI, rituais semanais automatizados, um second brain que serve de memória de longo prazo. Projetos paralelos com Raspberry Pi e LLM local, impressão 3D, wearables.
+O fio comum é curiosidade por comportamento humano e por sistemas criativos: como as pessoas colaboram, aprendem e constroem coisas ambiciosas juntas. É a mesma curiosidade do trabalho, só sem o crachá.
 
-Não é hobby de gadget. É a tese de "AI como infraestrutura" aplicada na própria vida, com evidência tangível. Se eu proponho um jeito de trabalhar, é porque testei em mim primeiro.
+## Fora do expediente eu continuo construindo
+
+O que faço no trabalho vaza pra fora dele. Rodo um sistema pessoal de dados e automação e experimento com hardware e AI na bancada. Descrevo isso em detalhe em `/ai/pt/workflow`, porque é mais workflow do que hobby.
 
 ## Origem
 

@@ -2,7 +2,7 @@
 type: page
 slug: faq
 title: Questions people ask
-order: 6
+order: 7
 nav: false
 lang: en
 summary: >

@@ -2,26 +2,28 @@
 type: page
 slug: beyond-work
 title: Beyond work
-order: 4
+order: 6
 nav: true
 lang: en
 summary: >
   Running, diving, games, music and travel. Curiosity about human behavior
-  and creative systems. A personal OS of data and automation running off
-  the clock.
+  and creative systems. Craft since childhood: that is where today's eye
+  was born.
 ---
 
 # Beyond work
 
-Outside of work, what moves me: running, diving, games, music, travel, technology, human behavior and creative systems.
+Outside of work, what moves me: running, diving, games, music, travel and technology.
 
-I have a strong interest in how people collaborate, learn and build ambitious things together. It's the same curiosity that shows up at work, just without the badge.
+## Hobbies
 
-## The personal OS
+I run, and I treat running like everything else: with data. Strava and Garmin feed a system that tracks the progression over time. I dive for the silence and the attention it demands. Games and music are decompression and system study, you can learn a lot about design by watching how a good game teaches without a tutorial. Travel to step out of my own context and see how other people solve the same things in a different way.
 
-What I do on the clock leaks off it. I run a personal infrastructure of data and automation: Strava and Garmin feeding a health system, invoices processed by AI, automated weekly rituals, a second brain that serves as long-term memory. Side projects with Raspberry Pi and local LLM, 3D printing, wearables.
+The common thread is curiosity about human behavior and creative systems: how people collaborate, learn and build ambitious things together. Same curiosity as work, just without the badge.
 
-It's not a gadget hobby. It's the "AI as infrastructure" thesis applied to my own life, with tangible evidence. If I propose a way of working, it's because I tested it on myself first.
+## Off the clock I keep building
+
+What I do at work leaks off it. I run a personal system of data and automation and I experiment with hardware and AI on the bench. I describe that in detail at `/ai/en/workflow`, because it is more workflow than hobby.
 
 ## Origin
 

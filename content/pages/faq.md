@@ -2,7 +2,7 @@
 type: page
 slug: faq
 title: Perguntas que me fazem
-order: 6
+order: 7
 nav: false
 summary: >
   Respostas diretas para o que founders e designers seniores costumam

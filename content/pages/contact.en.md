@@ -2,7 +2,7 @@
 type: page
 slug: contact
 title: Contact
-order: 5
+order: 8
 nav: true
 lang: en
 summary: >
