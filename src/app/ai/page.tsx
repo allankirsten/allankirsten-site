@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getSite, getPages, getCases } from "@/lib/content";
+import CopyLlmsTxt from "@/components/ui/CopyLlmsTxt";
 
 export const metadata: Metadata = {
   title: "Allan Kirsten — for AIs",
@@ -49,20 +50,7 @@ export default function AiIndex() {
         </p>
 
         <div className="mb-12">
-          <a
-            href="/llms.txt"
-            className="inline-block transition-colors"
-            style={{
-              fontFamily: "var(--font-mono, monospace)",
-              fontSize: "0.9375rem",
-              color: "var(--ds-accent)",
-              textDecoration: "none",
-              borderBottom: "1px solid rgba(200,169,110,0.4)",
-              paddingBottom: "4px",
-            }}
-          >
-            allankirsten.com/llms.txt →
-          </a>
+          <CopyLlmsTxt text="allankirsten.com/llms.txt" />
         </div>
 
         <p style={{ fontSize: "0.875rem", color: "var(--ds-accent)", marginBottom: "0.75rem" }}>
