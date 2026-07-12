@@ -39,10 +39,8 @@ export default function AiIndex() {
         </h1>
 
         <p style={{ fontSize: "1.125rem", lineHeight: 1.6, color: "rgba(245,240,232,0.65)", marginBottom: "2.5rem" }}>
-          This site is written to be read by machines too. Give your assistant
-          the address below and ask anything about my work, my track record, or
-          how I operate. Portuguese versions swap <code>/en/</code> for{" "}
-          <code>/pt/</code>.
+          Give your assistant the address below and ask anything about my
+          work, my track record, or how I operate.
         </p>
 
         <div className="mb-12">
