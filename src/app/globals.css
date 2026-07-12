@@ -39,6 +39,21 @@
   opacity: 0;
 }
 
+@keyframes bgFadeInZoomOut {
+  from {
+    opacity: 0;
+    transform: scale(1.06);
+  }
+  to {
+    opacity: 0.12;
+    transform: scale(1);
+  }
+}
+
+.bg-fade-in {
+  animation: bgFadeInZoomOut 3.5s ease-out forwards;
+}
+
 html {
   scroll-behavior: smooth;
 }

@@ -28,7 +28,8 @@ export default function Home() {
         alt=""
         fill
         sizes="100vw"
-        style={{ objectFit: "cover", opacity: 0.12 }}
+        className="bg-fade-in"
+        style={{ objectFit: "cover" }}
       />
 
       <Reveal
