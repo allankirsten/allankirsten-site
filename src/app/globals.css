@@ -74,7 +74,7 @@
     transparent 70%
   );
   background-size: 300% 300%;
-  animation: shadowSweep 28s linear infinite;
+  animation: shadowSweep 15s linear infinite;
 }
 
 html {
