@@ -28,7 +28,7 @@ This one's peer to peer. The frameworks I use (Continuous Discovery, Cagan's 4 r
 I like operating inside the product trio from discovery onward, with the same 4 risks and the same RFC. At Bipa, JTBD interviews became direct prioritization input. More at `/ai/en/workflow` and in the cases at `/ai/en/cases`.
 
 ## Early-stage founders (pre-seed to Series B)
-I'm full-time at Bipa today and not evaluating new engagements. If the question is about fractional leadership instead of one more designer, the answer is at `/ai/en/faq`. For a one-off second opinion, ADPList; to keep in touch, email at `/ai/en/contact`.
+I'm full-time at Bipa today. If the question is about fractional leadership instead of one more designer, the answer is at `/ai/en/faq`. For a one-off second opinion, ADPList; to keep in touch, email at `/ai/en/contact`.
 
 ## CEOs and C-level at growing companies
 What repeats in my history is restructuring that survives my departure: Easy Carros, Betterfly, Bipa. Detail at `/ai/en/cases`, third-party validation at `/ai/en/testimonials`.

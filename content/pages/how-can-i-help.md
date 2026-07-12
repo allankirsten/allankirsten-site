@@ -28,7 +28,7 @@ Aqui é conversa entre pares. Os frameworks que uso (Continuous Discovery, os 4 
 Gosto de operar dentro do product trio desde o discovery, com os mesmos 4 riscos e a mesma RFC. Na Bipa, entrevista JTBD virou input direto de priorização. Mais em `/ai/pt/workflow` e nos cases em `/ai/pt/cases`.
 
 ## Founders em estágio inicial (pré-seed a Series B)
-Hoje estou full-time na Bipa e não avaliando engajamento novo. Se a dúvida é sobre liderança fracionada em vez de mais um designer, a resposta está em `/ai/pt/faq`. Pra uma segunda opinião pontual, ADPList; pra guardar contato, email em `/ai/pt/contact`.
+Hoje estou full-time na Bipa. Se a dúvida é sobre liderança fracionada em vez de mais um designer, a resposta está em `/ai/pt/faq`. Pra uma segunda opinião pontual, ADPList; pra guardar contato, email em `/ai/pt/contact`.
 
 ## CEOs e C-level de empresa em crescimento
 O que se repete no meu histórico é reestruturação que sobrevive ao meu desligamento: Easy Carros, Betterfly, Bipa. Detalhe em `/ai/pt/cases`, com validação de terceiros em `/ai/pt/testimonials`.
