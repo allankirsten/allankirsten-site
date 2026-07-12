@@ -194,6 +194,17 @@ export default function About() {
         />
       </section>
 
+      {/* ── FAQ pointer ────────────────────────────────────────── */}
+      <section className="py-16 px-8 text-center">
+        <a
+          href="/faq"
+          className="text-sm font-medium tracking-widest uppercase"
+          style={{ color: "var(--color-accent)" }}
+        >
+          Questions people ask before a call →
+        </a>
+      </section>
+
       <Footer />
     </>
   );
