@@ -16,8 +16,8 @@ export default function CopyLlmsTxt({ text }: { text: string }) {
     if (buttonRef.current) {
       gsap
         .timeline()
-        .to(buttonRef.current, { scale: 0.92, duration: 0.1, ease: "power2.out" })
-        .to(buttonRef.current, { scale: 1, duration: 0.5, ease: "elastic.out(1, 0.45)" });
+        .to(buttonRef.current, { scale: 0.94, duration: 0.18, ease: "power2.out" })
+        .to(buttonRef.current, { scale: 1, duration: 0.5, ease: "power3.out" });
     }
 
     await navigator.clipboard.writeText(text);
