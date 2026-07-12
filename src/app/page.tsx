@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import Reveal from "@/components/ui/Reveal";
 import { revealWords } from "@/lib/revealWords";
+import PersonJsonLd from "@/components/PersonJsonLd";
 
 export default function Home() {
   return (
@@ -23,6 +24,8 @@ export default function Home() {
         overflow: "hidden",
       }}
     >
+      <PersonJsonLd />
+
       <Image
         src="/images/octopus-bg.webp"
         alt=""

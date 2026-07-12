@@ -1,5 +1,6 @@
 import Nav from "@/components/layout/Nav";
 import Footer from "@/components/layout/Footer";
+import PersonJsonLd from "@/components/PersonJsonLd";
 
 const trackRecord = [
   "Helped rebrand and market MAR Ventures, a venture capital firm aimed at funding and developing Brazilian fintech startups. Structured design teams and operations for the VC's portfolio companies.",
@@ -45,6 +46,7 @@ const testimonials = [
 export default function About() {
   return (
     <>
+      <PersonJsonLd />
       <Nav />
 
       {/* ── Header ─────────────────────────────────────────────── */}
@@ -176,6 +178,20 @@ export default function About() {
             ))}
           </div>
         </div>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(
+              testimonials.map((t) => ({
+                "@context": "https://schema.org",
+                "@type": "Review",
+                author: { "@type": "Person", name: t.name },
+                itemReviewed: { "@type": "Person", name: "Allan Kirsten" },
+                reviewBody: t.text.replace(/&apos;/g, "'"),
+              }))
+            ),
+          }}
+        />
       </section>
 
       <Footer />
