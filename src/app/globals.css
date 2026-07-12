@@ -63,6 +63,18 @@
   0% {
     background-position: 0% 50%;
   }
+  20% {
+    background-position: 40% 50%;
+  }
+  30% {
+    background-position: 40% 50%;
+  }
+  55% {
+    background-position: 75% 50%;
+  }
+  68% {
+    background-position: 75% 50%;
+  }
   100% {
     background-position: 100% 50%;
   }
@@ -74,12 +86,12 @@
   pointer-events: none;
   background: linear-gradient(
     100deg,
-    transparent 30%,
+    transparent 42%,
     rgba(0, 0, 0, 0.4) 50%,
-    transparent 70%
+    transparent 58%
   );
   background-size: 300% 300%;
-  animation: shadowSweep 15s linear infinite;
+  animation: shadowSweep 28s linear infinite;
 }
 
 html {
