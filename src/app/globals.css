@@ -34,7 +34,7 @@
 }
 
 ::selection {
-  background: var(--ds-text);
+  background: rgba(245, 240, 232, 0.8);
   color: var(--ds-bg);
 }
 
