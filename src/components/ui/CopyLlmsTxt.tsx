@@ -8,10 +8,18 @@ const SUCCESS = "#4ADE80";
 
 export default function CopyLlmsTxt({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);
+  const buttonRef = useRef<HTMLButtonElement>(null);
   const clipboardRef = useRef<SVGSVGElement>(null);
   const checkRef = useRef<SVGSVGElement>(null);
 
   const handleCopy = async () => {
+    if (buttonRef.current) {
+      gsap
+        .timeline()
+        .to(buttonRef.current, { scale: 0.92, duration: 0.1, ease: "power2.out" })
+        .to(buttonRef.current, { scale: 1, duration: 0.5, ease: "elastic.out(1, 0.45)" });
+    }
+
     await navigator.clipboard.writeText(text);
     setCopied(true);
     setTimeout(() => setCopied(false), 1500);
@@ -46,6 +54,7 @@ export default function CopyLlmsTxt({ text }: { text: string }) {
 
   return (
     <button
+      ref={buttonRef}
       type="button"
       onClick={handleCopy}
       className="inline-flex items-center gap-2 transition-colors"
