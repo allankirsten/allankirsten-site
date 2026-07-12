@@ -10,6 +10,7 @@ category: "Product & Growth"
 order: 1
 featured: true
 status: active
+updated: "2026-07-11"
 lang: en
 summary: >
   Bitcoin-native fintech, 300 thousand users. I turned a marketing site

@@ -10,6 +10,7 @@ category: "Design Leadership"
 order: 2
 featured: true
 status: archived
+updated: "2026-07-11"
 lang: en
 summary: >
   I joined as the first product designer and built the team from scratch to

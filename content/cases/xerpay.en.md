@@ -10,6 +10,7 @@ category: "Design & Discovery"
 order: 5
 featured: false
 status: archived
+updated: "2026-07-11"
 lang: en
 summary: >
   Product Design Lead at a salary advance fintech, 45 companies and 60

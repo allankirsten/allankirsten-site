@@ -4,6 +4,7 @@ slug: how-i-work
 title: Como trabalho
 order: 3
 nav: true
+updated: "2026-07-11"
 summary: >
   Design é capacidade de negócio, não decoração. Pesquisa que vira
   decisão. Estratégia e execução sem gap. Dados que decidem, não que

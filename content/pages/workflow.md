@@ -4,6 +4,7 @@ slug: workflow
 title: Como eu opero
 order: 4
 nav: false
+updated: "2026-07-11"
 summary: >
   Meu jeito de executar, não os princípios, a máquina. Um loop de dados,
   estrutura, automação e decisão, com AI como infraestrutura de execução,

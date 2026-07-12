@@ -10,6 +10,7 @@ category: "Product Leadership"
 order: 3
 featured: true
 status: archived
+updated: "2026-07-11"
 lang: en
 summary: >
   Head of Product at the largest fleet management platform for rental

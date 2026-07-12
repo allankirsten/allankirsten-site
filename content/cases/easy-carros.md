@@ -10,6 +10,7 @@ category: "Product Leadership"
 order: 3
 featured: true
 status: archived
+updated: "2026-07-11"
 summary: >
   Head of Product da maior plataforma de gestão para locadoras do Brasil,
   350 clientes e 130 mil veículos. Estruturei produto do zero e virei uma

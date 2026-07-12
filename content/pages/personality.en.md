@@ -4,6 +4,7 @@ slug: personality
 title: Personality
 order: 5
 nav: false
+updated: "2026-07-11"
 lang: en
 summary: >
   Who I am, not just what I do. Strategic, achiever, focused, competitive

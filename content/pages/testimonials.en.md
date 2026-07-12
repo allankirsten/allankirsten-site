@@ -4,6 +4,7 @@ slug: testimonials
 title: What people say
 order: 8
 nav: true
+updated: "2026-07-11"
 lang: en
 summary: >
   Real testimonials from people who worked with me, with name, role and

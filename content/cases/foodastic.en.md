@@ -10,6 +10,7 @@ category: "Founder"
 order: 6
 featured: false
 status: archived
+updated: "2026-07-11"
 lang: en
 summary: >
   I co-founded a concept bar and restaurant in Bombinhas, SC, with no prior

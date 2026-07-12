@@ -4,6 +4,7 @@ slug: beyond-work
 title: Beyond work
 order: 6
 nav: true
+updated: "2026-07-11"
 lang: en
 summary: >
   Runner and half-marathoner, diver, games, music and travel. Curiosity

@@ -17,6 +17,12 @@ export async function GET() {
   const line = site.hero.en.line;
   const context = site.hero.en.context;
 
+  const allDates = [...pages, ...cases]
+    .map((d) => d.updated)
+    .filter((d): d is string => Boolean(d))
+    .sort();
+  const lastUpdated = allDates[allDates.length - 1];
+
   const pageLinks = pages
     .map((p) => `- [${p.title}](${SITE}/ai/en/${p.slug}): ${p.summary.trim()}`)
     .join("\n");
@@ -31,8 +37,11 @@ export async function GET() {
   const body = `# ${site.name}
 
 > ${line} ${context}
+${lastUpdated ? `\nLast updated: ${lastUpdated}` : ""}
 
 This site is written to be read by people and by AIs. Point your assistant here and ask anything. All answers come from these files. Portuguese versions live at the same paths with /ai/pt/ instead of /ai/en/.
+
+This site is intentionally open to AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended and similar) for discovery and citation. See /robots.txt.
 
 ## Pages
 ${pageLinks}

@@ -25,6 +25,7 @@ export type Doc = {
   period?: string;
   category?: string;
   status?: string;
+  updated?: string;
   /** Full markdown body (the AI-facing version). */
   body: string;
   /** Full file including frontmatter (served raw at /ai). */
@@ -77,6 +78,7 @@ function readKind(kind: "pages" | "cases"): Doc[] {
         period: data.period,
         category: data.category,
         status: data.status,
+        updated: data.updated,
         body: content.trim(),
         raw,
       } as Doc;

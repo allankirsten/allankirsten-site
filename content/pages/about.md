@@ -4,6 +4,7 @@ slug: about
 title: Sobre
 order: 1
 nav: true
+updated: "2026-07-11"
 summary: >
   Product e design leader. Dez anos construindo produto para startups,
   vinte e três de carreira. Opero na interseção de design, produto,

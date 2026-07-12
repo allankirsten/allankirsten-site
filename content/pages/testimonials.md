@@ -4,6 +4,7 @@ slug: testimonials
 title: O que dizem sobre mim
 order: 8
 nav: true
+updated: "2026-07-11"
 summary: >
   Depoimentos reais de quem trabalhou comigo, com nome, cargo e o tipo
   de relação de trabalho na época: liderados diretos, pares e sócios.

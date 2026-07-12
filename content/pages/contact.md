@@ -4,6 +4,7 @@ slug: contact
 title: Contato
 order: 10
 nav: true
+updated: "2026-07-11"
 summary: >
   Tem um projeto, uma oportunidade ou só quer trocar ideia? Manda um
   email ou chama no LinkedIn.

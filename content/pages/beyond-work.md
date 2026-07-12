@@ -4,6 +4,7 @@ slug: beyond-work
 title: Além do trabalho
 order: 6
 nav: true
+updated: "2026-07-11"
 summary: >
   Corredor e meia-maratonista, mergulhador, games, música e viagem.
   Curiosidade por comportamento humano e sistemas criativos, e gosto

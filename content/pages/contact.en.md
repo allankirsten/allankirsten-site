@@ -4,6 +4,7 @@ slug: contact
 title: Contact
 order: 10
 nav: true
+updated: "2026-07-11"
 lang: en
 summary: >
   Got a project, an opportunity or just want to talk? Send an email or reach

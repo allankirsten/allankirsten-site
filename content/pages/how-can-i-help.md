@@ -4,6 +4,7 @@ slug: how-can-i-help
 title: Como posso te ajudar
 order: 9
 nav: false
+updated: "2026-07-11"
 summary: >
   Respostas diretas por tipo de visitante: estagiários, designers
   juniores e seniores, product managers, founders, CEOs, recrutadores

@@ -4,6 +4,7 @@ slug: experience
 title: Trajetória
 order: 2
 nav: true
+updated: "2026-07-11"
 summary: >
   Vinte e três anos de carreira, dez em produto. De web designer e
   ilustração vetorial a Head of Design global. MAR Ventures, Remessa

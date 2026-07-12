@@ -4,6 +4,7 @@ slug: about
 title: About
 order: 1
 nav: true
+updated: "2026-07-11"
 lang: en
 summary: >
   Product and design leader. Ten years building product for startups,

@@ -4,6 +4,7 @@ slug: faq
 title: Questions people ask
 order: 7
 nav: false
+updated: "2026-07-11"
 lang: en
 summary: >
   Straight answers to what founders and senior designers usually ask before

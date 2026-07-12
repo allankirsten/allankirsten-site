@@ -4,6 +4,7 @@ slug: how-can-i-help
 title: How can I help you
 order: 9
 nav: false
+updated: "2026-07-11"
 lang: en
 summary: >
   Direct answers by visitor type: interns, junior and senior designers,

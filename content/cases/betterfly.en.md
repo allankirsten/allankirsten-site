@@ -10,6 +10,7 @@ category: "Design Leadership"
 order: 4
 featured: true
 status: archived
+updated: "2026-07-11"
 lang: en
 summary: >
   Promoted to Head of Product Design Global in 3 months at LATAM's first

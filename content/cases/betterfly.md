@@ -10,6 +10,7 @@ category: "Design Leadership"
 order: 4
 featured: true
 status: archived
+updated: "2026-07-11"
 summary: >
   Promovido a Head of Product Design Global em 3 meses no primeiro
   unicórnio de impacto social da LATAM. Unifiquei 4 times de design

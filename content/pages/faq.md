@@ -4,6 +4,7 @@ slug: faq
 title: Perguntas que me fazem
 order: 7
 nav: false
+updated: "2026-07-11"
 summary: >
   Respostas diretas para o que founders e designers seniores costumam
   perguntar antes de uma conversa: onde entro, o que movo, se ainda coloco

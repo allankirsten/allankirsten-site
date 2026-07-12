@@ -10,6 +10,7 @@ category: "Venture Building"
 order: 7
 featured: true
 status: archived
+updated: "2026-07-11"
 lang: en
 summary: >
   Brazilian venture builder, I joined as a partner in 2016 when it was

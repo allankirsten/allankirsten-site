@@ -10,6 +10,7 @@ category: "Design Leadership"
 order: 2
 featured: true
 status: archived
+updated: "2026-07-11"
 summary: >
   Entrei como primeiro designer de produto e construí o time do zero a
   12 pessoas em 4 anos, na maior plataforma de câmbio da América Latina.

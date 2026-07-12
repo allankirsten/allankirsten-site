@@ -10,6 +10,7 @@ category: "Venture Building"
 order: 7
 featured: true
 status: archived
+updated: "2026-07-11"
 summary: >
   Venture builder brasileiro, entrei como sócio em 2016 quando ainda se
   chamava e-Genius. Responsável pelo design de todo o portfólio: de uma

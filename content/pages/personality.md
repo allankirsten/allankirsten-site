@@ -4,6 +4,7 @@ slug: personality
 title: Personalidade
 order: 5
 nav: false
+updated: "2026-07-11"
 summary: >
   Como eu sou, não só o que eu faço. Estratégico, realizador, focado,
   competitivo e relacional, nessa ordem. Provoco com fundamento, fecho o

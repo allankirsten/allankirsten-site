@@ -4,6 +4,7 @@ slug: workflow
 title: How I operate
 order: 4
 nav: false
+updated: "2026-07-11"
 lang: en
 summary: >
   My way of executing, not the principles, the machine. A loop of data,

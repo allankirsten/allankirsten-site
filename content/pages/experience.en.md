@@ -4,6 +4,7 @@ slug: experience
 title: Experience
 order: 2
 nav: true
+updated: "2026-07-11"
 lang: en
 summary: >
   Twenty-three years in the career, ten in product. From web designer and

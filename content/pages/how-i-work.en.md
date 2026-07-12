@@ -4,6 +4,7 @@ slug: how-i-work
 title: How I work
 order: 3
 nav: true
+updated: "2026-07-11"
 lang: en
 summary: >
   Design is a business capability, not decoration. Research that turns into
