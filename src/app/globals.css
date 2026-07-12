@@ -54,6 +54,29 @@
   animation: bgFadeInZoomOut 3.5s ease-out forwards;
 }
 
+@keyframes shadowSweep {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.bg-shadow-sweep {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    100deg,
+    transparent 30%,
+    rgba(0, 0, 0, 0.75) 50%,
+    transparent 70%
+  );
+  background-size: 300% 300%;
+  animation: shadowSweep 10s ease-in-out infinite;
+}
+
 html {
   scroll-behavior: smooth;
 }

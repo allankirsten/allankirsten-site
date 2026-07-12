@@ -31,6 +31,7 @@ export default function Home() {
         className="bg-fade-in"
         style={{ objectFit: "cover" }}
       />
+      <div className="bg-shadow-sweep" />
 
       <Reveal
         className="flex flex-col items-center"
