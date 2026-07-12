@@ -33,6 +33,12 @@
   box-sizing: border-box;
 }
 
+.reveal-label,
+.reveal-word,
+.reveal-fade {
+  opacity: 0;
+}
+
 html {
   scroll-behavior: smooth;
 }

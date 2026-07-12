@@ -2,6 +2,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { getSite } from "@/lib/content";
 import CopyLlmsTxt from "@/components/ui/CopyLlmsTxt";
+import Reveal from "@/components/ui/Reveal";
+import { revealWords } from "@/lib/revealWords";
 
 export const metadata: Metadata = {
   title: "Allan Kirsten — for AIs",
@@ -21,8 +23,8 @@ export default function AiIndex() {
         fontFamily: "var(--font-atkinson)",
       }}
     >
-      <div className="w-full max-w-xl">
-        <p className="mb-8" style={{ fontSize: "0.875rem", color: "rgba(245,240,232,0.45)", letterSpacing: "0.02em" }}>
+      <Reveal className="w-full max-w-xl">
+        <p className="reveal-label mb-8" style={{ fontSize: "0.875rem", color: "rgba(245,240,232,0.45)", letterSpacing: "0.02em" }}>
           {site.name}
         </p>
 
@@ -35,19 +37,19 @@ export default function AiIndex() {
             marginBottom: "1rem",
           }}
         >
-          Point your AI here.
+          {revealWords("Point your AI here.")}
         </h1>
 
-        <p style={{ fontSize: "1.125rem", lineHeight: 1.6, color: "rgba(245,240,232,0.65)", marginBottom: "2.5rem" }}>
+        <p className="reveal-fade" style={{ fontSize: "1.125rem", lineHeight: 1.6, color: "rgba(245,240,232,0.65)", marginBottom: "2.5rem" }}>
           Give your assistant the address below and ask anything about my
           work, my track record, or how I operate.
         </p>
 
-        <div className="mb-12">
+        <div className="reveal-fade mb-12">
           <CopyLlmsTxt text="allankirsten.com/llms.txt" />
         </div>
 
-        <div className="flex gap-6 text-sm">
+        <div className="reveal-fade flex gap-6 text-sm">
           <a href={`mailto:${site.contact.email}`} style={{ color: "var(--ds-accent)" }}>
             {site.contact.email}
           </a>
@@ -55,7 +57,7 @@ export default function AiIndex() {
             ← home
           </Link>
         </div>
-      </div>
+      </Reveal>
     </main>
   );
 }
