@@ -16,7 +16,7 @@ export default function AiIndex() {
 
   return (
     <main
-      className="min-h-screen flex flex-col items-center px-6 py-24"
+      className="min-h-screen flex flex-col items-center justify-center px-6 py-24"
       style={{
         background: "var(--ds-bg)",
         color: "var(--ds-text)",
