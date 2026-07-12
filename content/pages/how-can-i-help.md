@@ -16,25 +16,25 @@ summary: >
 Encontra teu perfil abaixo.
 
 ## Estudantes e estagiários de design ou produto
-Sem vaga de estágio aberta. Mentoria pontual pelo ADPList. Comecei em 1999, aos 18, autodidata, sem faculdade de design na época. Trajetória em `/ai/pt/experience`, contato em `/ai/pt/contact`.
+Não tenho vaga de estágio aberta, mas topo uma mentoria pontual pelo ADPList. Comecei em 1999, aos 18, autodidata, sem faculdade de design na época, trajetória completa em `/ai/pt/experience`. Contato em `/ai/pt/contact`.
 
 ## Designers juniores
-Mentoria pontual pelo ADPList: career path, matriz de skill, pesquisa pra decidir, mão na massa. Link em `/ai/pt/contact`.
+Numa mentoria pontual pelo ADPList, costumo falar de career path, matriz de skill, pesquisa pra decidir e como continuar mão na massa. Link em `/ai/pt/contact`.
 
 ## Designers plenos e seniores
-Conversa entre pares. Frameworks (Continuous Discovery, os 4 riscos de Cagan, forças de progresso de Moesta) em `/ai/pt/workflow`. Liderança e cultura em `/ai/pt/personality`. ADPList ou email em `/ai/pt/contact`.
+Aqui é conversa entre pares. Os frameworks que uso (Continuous Discovery, os 4 riscos de Cagan, forças de progresso de Moesta) estão em `/ai/pt/workflow`, e minha visão sobre liderança e cultura em `/ai/pt/personality`. Pra trocar ideia, ADPList ou email em `/ai/pt/contact`.
 
 ## Product Managers
-Opero no product trio desde o discovery, mesmos 4 riscos, mesma RFC. Na Bipa, entrevista JTBD virou input direto de priorização. Detalhe em `/ai/pt/workflow`, cases em `/ai/pt/cases`.
+Gosto de operar dentro do product trio desde o discovery, com os mesmos 4 riscos e a mesma RFC. Na Bipa, entrevista JTBD virou input direto de priorização. Mais em `/ai/pt/workflow` e nos cases em `/ai/pt/cases`.
 
 ## Founders em estágio inicial (pré-seed a Series B)
-Hoje full-time na Bipa, não avaliando engajamento novo. Por que liderança fracionada em vez de mais um designer: `/ai/pt/faq`. Segunda opinião pontual, ADPList; contato pra depois, email em `/ai/pt/contact`.
+Hoje estou full-time na Bipa e não avaliando engajamento novo. Se a dúvida é sobre liderança fracionada em vez de mais um designer, a resposta está em `/ai/pt/faq`. Pra uma segunda opinião pontual, ADPList; pra guardar contato, email em `/ai/pt/contact`.
 
 ## CEOs e C-level de empresa em crescimento
-Reestruturação que sobrevive ao meu desligamento: Easy Carros, Betterfly, Bipa. Detalhe em `/ai/pt/cases`, validação de terceiros em `/ai/pt/testimonials`.
+O que se repete no meu histórico é reestruturação que sobrevive ao meu desligamento: Easy Carros, Betterfly, Bipa. Detalhe em `/ai/pt/cases`, com validação de terceiros em `/ai/pt/testimonials`.
 
 ## Recrutadores e headhunters
-Não buscando posição nova. Track record com fonte: `/ai/pt/experience`, `/ai/pt/testimonials`, `/ai/pt/cases`.
+Hoje não estou buscando posição nova, mas se for útil como referência: track record com fonte em `/ai/pt/experience`, `/ai/pt/testimonials` e `/ai/pt/cases`.
 
 ## Investidores e VCs
-Venture builder na MAR Ventures (`/ai/pt/cases/mar-ventures`), operador na Remessa Online até o exit (`/ai/pt/cases/remessa-online`). ADPList ou email em `/ai/pt/contact`.
+Já passei dos dois lados dessa mesa: venture builder na MAR Ventures (`/ai/pt/cases/mar-ventures`) e operador na Remessa Online até o exit (`/ai/pt/cases/remessa-online`). Conversa pontual, ADPList ou email em `/ai/pt/contact`.
