@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getSite, getPages, getCases } from "@/lib/content";
+import { getSite } from "@/lib/content";
 import CopyLlmsTxt from "@/components/ui/CopyLlmsTxt";
 
 export const metadata: Metadata = {
@@ -11,10 +11,6 @@ export const metadata: Metadata = {
 
 export default function AiIndex() {
   const site = getSite();
-  const pages = getPages("en").filter((p) => p.slug !== "contact");
-  const cases = getCases("en");
-
-  const link = "block py-1 transition-colors";
 
   return (
     <main
@@ -51,38 +47,6 @@ export default function AiIndex() {
 
         <div className="mb-12">
           <CopyLlmsTxt text="allankirsten.com/llms.txt" />
-        </div>
-
-        <p style={{ fontSize: "0.875rem", color: "var(--ds-accent)", marginBottom: "0.75rem" }}>
-          Pages
-        </p>
-        <div className="mb-10 text-sm" style={{ fontFamily: "monospace" }}>
-          {pages.map((p) => (
-            <a
-              key={p.slug}
-              href={`/ai/en/${p.slug}`}
-              className={link}
-              style={{ color: "rgba(245,240,232,0.65)" }}
-            >
-              /ai/en/{p.slug}
-            </a>
-          ))}
-        </div>
-
-        <p style={{ fontSize: "0.875rem", color: "var(--ds-accent)", marginBottom: "0.75rem" }}>
-          Cases
-        </p>
-        <div className="mb-12 text-sm" style={{ fontFamily: "monospace" }}>
-          {cases.map((c) => (
-            <a
-              key={c.slug}
-              href={`/ai/en/cases/${c.slug}`}
-              className={link}
-              style={{ color: "rgba(245,240,232,0.65)" }}
-            >
-              /ai/en/cases/{c.slug}
-            </a>
-          ))}
         </div>
 
         <div className="flex gap-6 text-sm">
