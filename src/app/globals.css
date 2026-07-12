@@ -33,6 +33,11 @@
   box-sizing: border-box;
 }
 
+::selection {
+  background: var(--ds-text);
+  color: var(--ds-bg);
+}
+
 .reveal-label,
 .reveal-word,
 .reveal-fade {
