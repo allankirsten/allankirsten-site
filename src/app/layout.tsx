@@ -17,7 +17,7 @@ const dmSerif = DM_Serif_Display({
 
 export const metadata: Metadata = {
   title: "From chaos to done, by design",
-  description: "Portfolio of Allan Kirsten, Creative Director and UX/UI Designer based in Brazil.",
+  description: "Portfolio of Allan Kirsten, Product & Design Leader based in Brazil.",
 };
 
 const GA_MEASUREMENT_ID = "G-FSBTENKVS7";
