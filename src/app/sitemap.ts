@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE}/contact`, changeFrequency: "yearly", priority: 0.5 },
     { url: `${SITE}/faq`, changeFrequency: "monthly", priority: 0.6 },
     { url: `${SITE}/ai`, changeFrequency: "monthly", priority: 0.6 },
+    { url: `${SITE}/llms.txt`, changeFrequency: "monthly", priority: 0.8 },
   ];
 
   for (const project of projects) {

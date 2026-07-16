@@ -47,6 +47,17 @@ export default function AiIndex() {
 
         <div className="reveal-fade mb-12">
           <CopyLlmsTxt text="allankirsten.com/llms.txt" />
+          <a
+            href="/llms.txt"
+            style={{
+              display: "block",
+              marginTop: "0.75rem",
+              fontSize: "0.875rem",
+              color: "rgba(245,240,232,0.45)",
+            }}
+          >
+            open it directly ↗
+          </a>
         </div>
 
         <div className="reveal-fade flex gap-6 text-sm">
