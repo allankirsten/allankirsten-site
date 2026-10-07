@@ -10,23 +10,26 @@ const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://allankirsten.com";
 // /2026 is a staging preview of the site rebuild, proxied in via rewrite —
 // keep it out of the index until it's promoted to the root domain.
 const NOT_YET = "/2026";
+// Except what the launched Dial In pages (rewritten in from /2026) need to render and preview:
+// scripts, styles, its images and the social card.
+const DIAL_IN_ASSETS = ["/", "/2026/_next/", "/2026/images/lab/", "/2026/logo-ak.png"];
 
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
-      { userAgent: "*", allow: "/", disallow: NOT_YET },
-      { userAgent: "GPTBot", allow: "/", disallow: NOT_YET },
-      { userAgent: "ChatGPT-User", allow: "/", disallow: NOT_YET },
-      { userAgent: "ClaudeBot", allow: "/", disallow: NOT_YET },
-      { userAgent: "Claude-Web", allow: "/", disallow: NOT_YET },
-      { userAgent: "anthropic-ai", allow: "/", disallow: NOT_YET },
-      { userAgent: "PerplexityBot", allow: "/", disallow: NOT_YET },
-      { userAgent: "Perplexity-User", allow: "/", disallow: NOT_YET },
-      { userAgent: "Google-Extended", allow: "/", disallow: NOT_YET },
-      { userAgent: "OAI-SearchBot", allow: "/", disallow: NOT_YET },
-      { userAgent: "Applebot-Extended", allow: "/", disallow: NOT_YET },
-      { userAgent: "Bytespider", allow: "/", disallow: NOT_YET },
-      { userAgent: "CCBot", allow: "/", disallow: NOT_YET },
+      { userAgent: "*", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "GPTBot", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "ChatGPT-User", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "ClaudeBot", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "Claude-Web", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "anthropic-ai", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "PerplexityBot", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "Perplexity-User", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "Google-Extended", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "OAI-SearchBot", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "Applebot-Extended", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "Bytespider", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
+      { userAgent: "CCBot", allow: DIAL_IN_ASSETS, disallow: NOT_YET },
     ],
     sitemap: `${SITE}/sitemap.xml`,
   };

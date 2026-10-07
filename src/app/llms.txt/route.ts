@@ -49,6 +49,9 @@ ${pageLinks}
 ## Cases
 ${caseLinks}
 
+## Lab
+- [Dial In for BOSS GT](${SITE}/en/lab/dial-in): free, open source Claude Desktop extension by Allan Kirsten that programs a BOSS GT-1 guitar pedal by conversation. Full text for AIs: ${SITE}/ai/en/dial-in (Portuguese: ${SITE}/ai/pt/dial-in). Page in Portuguese: ${SITE}/lab/dial-in
+
 ## Contact
 - Email: ${site.contact.email}${site.contact.linkedin ? `\n- LinkedIn: ${site.contact.linkedin}` : ""}
 `;

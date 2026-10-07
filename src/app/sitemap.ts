@@ -17,6 +17,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE}/llms.txt`, changeFrequency: "monthly", priority: 0.8 },
   ];
 
+  // Lab: Dial In (served from the nav-poc app via rewrite), cross-linked by language.
+  const dialIn = { "pt-BR": `${SITE}/lab/dial-in`, en: `${SITE}/en/lab/dial-in` };
+  const dialInAi = { "pt-BR": `${SITE}/ai/pt/dial-in`, en: `${SITE}/ai/en/dial-in` };
+  for (const url of Object.values(dialIn)) {
+    entries.push({ url, changeFrequency: "monthly", priority: 0.8, alternates: { languages: dialIn } });
+  }
+  for (const url of Object.values(dialInAi)) {
+    entries.push({ url, changeFrequency: "monthly", priority: 0.5, alternates: { languages: dialInAi } });
+  }
+
   for (const project of projects) {
     entries.push({
       url: `${SITE}/work/${project.slug}`,
