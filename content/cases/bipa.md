@@ -13,12 +13,11 @@ status: active
 updated: "2026-07-11"
 summary: >
   Fintech Bitcoin-native, 300 mil usuários. Virei um site institucional
-  em plataforma de aquisição: 93 PRs em 4 meses, cadastro web com 29,9%
-  de aprovação orgânica contra 12,8% do fluxo pago, e 40 entrevistas
+  em plataforma de aquisição: 93 PRs em 4 meses, cadastro web que superou o fluxo pago em aprovação orgânica, e 40 entrevistas
   JTBD que viraram a base de decisão do time.
 metrics:
   - label: "Cadastro web"
-    value: "29,9% aprovação orgânica (2,3x o pago)"
+    value: "aprovação orgânica acima do fluxo pago"
   - label: "Entrega"
     value: "93 PRs merged em 4 meses"
   - label: "GEO"
@@ -38,7 +37,7 @@ A Bipa é uma fintech Bitcoin-native no Brasil: 300 mil usuários, R$4 bilhões 
 
 ## O impacto primeiro
 
-Em 4 meses, 93 pull requests merged. Cadastro web completo convertendo 2,3x mais que o fluxo antigo. GEO no ar antes de qualquer um dos 10 concorrentes. FullStory saltando de 30% para 100% das sessões gravadas. 40 entrevistas de pesquisa viradas em contexto permanente de decisão do time.
+Em 4 meses, 93 pull requests merged. Cadastro web completo convertendo bem mais que o fluxo antigo. GEO no ar antes de qualquer um dos 10 concorrentes. FullStory saltando de 30% para 100% das sessões gravadas. 40 entrevistas de pesquisa viradas em contexto permanente de decisão do time.
 
 Um site que só existia agora adquire.
 
@@ -46,7 +45,7 @@ Um site que só existia agora adquire.
 
 Havia uma suposição não testada: a de que o melhor era capturar o lead e mandar pro app. Testamos.
 
-O que descobrimos? Usuário orgânico completando o cadastro no browser: 29,9% de aprovação. Usuário pago redirecionado pro app: 12,8%.
+O que descobrimos? Usuário orgânico completando o cadastro no browser era aprovado muito mais que o usuário pago redirecionado pro app.
 
 Premissas erradas podem matar uma oportunidade.
 
@@ -74,7 +73,7 @@ A estrutura de jobs virou contexto permanente de um agente interno. Hoje o time 
 
 ## Resultado
 
-93 PRs em 4 meses. Cadastro web 2,3x mais eficiente no orgânico. SEO e GEO do zero, com GEO na frente do mercado. Tracking de 30% para 100% de cobertura. 40 entrevistas que deixaram de ser arquivo e viraram decisão.
+93 PRs em 4 meses. Cadastro web mais eficiente no orgânico. SEO e GEO do zero, com GEO na frente do mercado. Tracking de 30% para 100% de cobertura. 40 entrevistas que deixaram de ser arquivo e viraram decisão.
 
 O trabalho equivale a um squad sênior de 5 a 6 pessoas operando em paralelo. Foi uma pessoa, operando em cada camada porque o problema pedia.
 

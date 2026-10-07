@@ -18,10 +18,10 @@ Se você é founder, CPO ou designer avaliando trabalhar comigo, essas são as p
 ## Para founders
 
 **Por que eu precisaria de liderança de produto e design, e não só de mais designers?**
-Designer entrega tela. Liderança reduz incerteza. Eu entro quando o problema não é fazer a interface, é decidir qual interface fazer, por quê, e como medir se funcionou. Na Bipa isso virou 29,9% de aprovação no cadastro orgânico contra 12,8% no fluxo que todos assumiam ser melhor. A diferença não foi design, foi testar a premissa antes de escalar.
+Designer entrega tela. Liderança reduz incerteza. Eu entro quando o problema não é fazer a interface, é decidir qual interface fazer, por quê, e como medir se funcionou. Na Bipa isso virou um cadastro orgânico com aprovação bem acima do fluxo que todos assumiam ser melhor. A diferença não foi design, foi testar a premissa antes de escalar.
 
 **Você é designer. Consegue mesmo mover número de produto e growth?**
-Consigo, e tenho documentado. Bipa em 4 meses: 93 PRs, cadastro web 2,3x mais eficiente no orgânico, SEO e GEO do zero com GEO na frente de 10 concorrentes. Easy Carros: deploy de 1 para 8 vezes por mês, lead time de 22 para 9 dias. Não é opinião sobre growth, é growth entregue.
+Consigo, e tenho documentado. Bipa em 4 meses: 93 PRs, cadastro web mais eficiente no orgânico, SEO e GEO do zero com GEO na frente de 10 concorrentes. Easy Carros: deploy de 1 para 8 vezes por mês, lead time de 22 para 9 dias. Não é opinião sobre growth, é growth entregue.
 
 **Em que estágio eu rendo mais?**
 Alta ambiguidade, do early stage à Series B, onde cada decisão ainda importa de verdade. Ambiente enxuto, produto complexo, pouco tempo pra erro: é onde tenho mais repertório e onde historicamente entrego mais valor. Meu padrão de carreira é entrar no caos e criar ordem.

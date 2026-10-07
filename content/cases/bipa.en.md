@@ -14,12 +14,11 @@ updated: "2026-07-11"
 lang: en
 summary: >
   Bitcoin-native fintech, 300 thousand users. I turned a marketing site
-  into an acquisition platform: 93 pull requests in 4 months, web signup with
-  29.9% organic approval against 12.8% for the paid flow, and 40 JTBD
+  into an acquisition platform: 93 pull requests in 4 months, web signup beating the paid flow on organic approval, and 40 JTBD
   interviews that became the team's decision base.
 metrics:
   - label: "Web signup"
-    value: "29.9% organic approval (2.3x paid)"
+    value: "organic approval above the paid flow"
   - label: "Delivery"
     value: "93 pull requests merged in 4 months"
   - label: "GEO"
@@ -39,7 +38,7 @@ Bipa is a Bitcoin-native fintech in Brazil: 300 thousand users, R$4 billion proc
 
 ## Impact first
 
-In 4 months, 93 pull requests merged. A complete web signup converting 2.3x more than the old flow. GEO live before any of the 10 competitors. FullStory jumping from 30% to 100% of sessions recorded. 40 research interviews turned into permanent context for team decisions.
+In 4 months, 93 pull requests merged. A complete web signup converting far more than the old flow. GEO live before any of the 10 competitors. FullStory jumping from 30% to 100% of sessions recorded. 40 research interviews turned into permanent context for team decisions.
 
 A site that only existed now acquires.
 
@@ -47,7 +46,7 @@ A site that only existed now acquires.
 
 There was an untested assumption: that the best move was to capture the lead and send them to the app. We tested it.
 
-What did we find? An organic user completing signup in the browser: 29.9% approval. A paid user redirected to the app: 12.8%.
+What did we find? An organic user completing signup in the browser was approved far more often than a paid user redirected to the app.
 
 Wrong assumptions can kill an opportunity.
 
@@ -75,7 +74,7 @@ The jobs structure became the permanent context of an internal agent. Today the 
 
 ## Result
 
-93 pull requests in 4 months. Web signup 2.3x more efficient on organic. SEO and GEO from scratch, with GEO ahead of the market. Tracking from 30% to 100% coverage. 40 interviews that stopped being an archive and became decisions.
+93 pull requests in 4 months. Web signup more efficient on organic. SEO and GEO from scratch, with GEO ahead of the market. Tracking from 30% to 100% coverage. 40 interviews that stopped being an archive and became decisions.
 
 The work equals a senior squad of 5 to 6 people operating in parallel. It was one person, operating in every layer because the problem called for it.
 

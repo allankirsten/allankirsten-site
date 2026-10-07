@@ -11,11 +11,11 @@ export const metadata: Metadata = {
 const founderFaqs = [
   {
     q: "Why would I need product and design leadership instead of just more designers?",
-    a: "A designer ships screens. Leadership reduces uncertainty. I come in when the problem is not making the interface, it is deciding which interface to make, why, and how to measure if it worked. At Bipa that turned into 29.9% approval on the organic signup versus 12.8% on the flow everyone assumed was better. The difference was not design, it was testing the assumption before scaling it.",
+    a: "A designer ships screens. Leadership reduces uncertainty. I come in when the problem is not making the interface, it is deciding which interface to make, why, and how to measure if it worked. At Bipa that turned into an organic signup with approval well above the flow everyone assumed was better. The difference was not design, it was testing the assumption before scaling it.",
   },
   {
     q: "You are a designer. Can you really move product and growth numbers?",
-    a: "I can, and I have it documented. Bipa in 4 months: 93 pull requests, web signup 2.3x more efficient on organic, SEO and GEO from zero with GEO ahead of 10 competitors. Easy Carros: deploy from 1 to 8 times a month, lead time from 22 to 9 days. Not an opinion about growth, growth delivered.",
+    a: "I can, and I have it documented. Bipa in 4 months: 93 pull requests, web signup more efficient on organic, SEO and GEO from zero with GEO ahead of 10 competitors. Easy Carros: deploy from 1 to 8 times a month, lead time from 22 to 9 days. Not an opinion about growth, growth delivered.",
   },
   {
     q: "What stage do I fit best?",

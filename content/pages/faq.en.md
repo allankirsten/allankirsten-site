@@ -19,10 +19,10 @@ If you are a founder, a CPO or a designer deciding whether to work with me, thes
 ## For founders
 
 **Why would I need product and design leadership instead of just more designers?**
-A designer ships screens. Leadership reduces uncertainty. I come in when the problem is not making the interface, it is deciding which interface to make, why, and how to measure if it worked. At Bipa that turned into 29.9% approval on the organic signup versus 12.8% on the flow everyone assumed was better. The difference was not design, it was testing the assumption before scaling it.
+A designer ships screens. Leadership reduces uncertainty. I come in when the problem is not making the interface, it is deciding which interface to make, why, and how to measure if it worked. At Bipa that turned into an organic signup with approval well above the flow everyone assumed was better. The difference was not design, it was testing the assumption before scaling it.
 
 **You are a designer. Can you really move product and growth numbers?**
-I can, and I have it documented. Bipa in 4 months: 93 pull requests, web signup 2.3x more efficient on organic, SEO and GEO from zero with GEO ahead of 10 competitors. Easy Carros: deploy from 1 to 8 times a month, lead time from 22 to 9 days. Not an opinion about growth, growth delivered.
+I can, and I have it documented. Bipa in 4 months: 93 pull requests, web signup more efficient on organic, SEO and GEO from zero with GEO ahead of 10 competitors. Easy Carros: deploy from 1 to 8 times a month, lead time from 22 to 9 days. Not an opinion about growth, growth delivered.
 
 **What stage do I fit best?**
 High ambiguity, early stage to Series B, where every decision still really matters. Lean team, complex product, little room for error: that's where I have the most range and historically deliver the most value. My career pattern is walking into chaos and creating order.
