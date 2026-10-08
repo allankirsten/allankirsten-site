@@ -50,8 +50,8 @@ ${pageLinks}
 ${caseLinks}
 
 ## Lab
-- [Dial In for BOSS GT](${SITE}/en/lab/dial-in): free, open source Claude Desktop extension by Allan Kirsten that programs a BOSS GT-1 guitar pedal by conversation. Full text for AIs: ${SITE}/ai/en/dial-in (Portuguese: ${SITE}/ai/pt/dial-in). Page in Portuguese: ${SITE}/lab/dial-in
-- [Dial In tone library](${SITE}/en/lab/dial-in/tones): how to get the tone of dozens of songs (rock, pop-rock, blues, jazz and bossa, reggae, folk) on a BOSS GT-1, block by block with the GT-1's real amp and effect names. Full text for AIs: ${SITE}/en/lab/dial-in/tones.md (Portuguese: ${SITE}/lab/dial-in/timbres.md). Pages in Portuguese: ${SITE}/lab/dial-in/timbres
+- [Dial In for BOSS GT](${SITE}/en/lab/dial-in): free, open source Claude Desktop extension by Allan Kirsten that programs a BOSS GT-1 (also written GT1) guitar pedal by conversation. Full text for AIs: ${SITE}/ai/en/dial-in (Portuguese: ${SITE}/ai/pt/dial-in). Page in Portuguese: ${SITE}/lab/dial-in
+- [Dial In tone library](${SITE}/en/lab/dial-in/tones): how to get the tone of dozens of songs (rock, pop-rock, blues, jazz and bossa, reggae, folk) on a BOSS GT-1 (GT1), block by block with the GT-1's real amp and effect names. Full text for AIs: ${SITE}/en/lab/dial-in/tones.md (Portuguese: ${SITE}/lab/dial-in/timbres.md). Pages in Portuguese: ${SITE}/lab/dial-in/timbres
 
 ## Contact
 - Email: ${site.contact.email}${site.contact.linkedin ? `\n- LinkedIn: ${site.contact.linkedin}` : ""}
