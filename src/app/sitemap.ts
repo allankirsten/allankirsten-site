@@ -17,9 +17,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE}/llms.txt`, changeFrequency: "monthly", priority: 0.8 },
   ];
 
-  // Lab: Dial In (served from the nav-poc app via rewrite), cross-linked by language.
-  const dialIn = { "pt-BR": `${SITE}/lab/dial-in`, en: `${SITE}/en/lab/dial-in` };
-  const dialInAi = { "pt-BR": `${SITE}/ai/pt/dial-in`, en: `${SITE}/ai/en/dial-in` };
+  // Lab: GT Pilot (served from the nav-poc app via rewrite), cross-linked by language.
+  const dialIn = { "pt-BR": `${SITE}/lab/gt-pilot`, en: `${SITE}/en/lab/gt-pilot` };
+  const dialInAi = { "pt-BR": `${SITE}/ai/pt/gt-pilot`, en: `${SITE}/ai/en/gt-pilot` };
   for (const url of Object.values(dialIn)) {
     entries.push({ url, changeFrequency: "monthly", priority: 0.8, alternates: { languages: dialIn } });
   }
