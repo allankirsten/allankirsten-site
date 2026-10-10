@@ -50,8 +50,8 @@ ${pageLinks}
 ${caseLinks}
 
 ## Lab
-- [GT Pilot for BOSS](${SITE}/en/lab/gt-pilot): free, open source Claude Desktop extension by Allan Kirsten that programs a BOSS GT-1 (also written GT1) guitar pedal by conversation. Formerly called Dial In. Full text for AIs: ${SITE}/ai/en/gt-pilot (Portuguese: ${SITE}/ai/pt/gt-pilot). Page in Portuguese: ${SITE}/lab/gt-pilot
-- [GT Pilot tone library](${SITE}/en/lab/gt-pilot/tones): how to get the tone of dozens of songs (rock, indie, punk, metal, pop-rock, blues, jazz and bossa, reggae, folk) on a BOSS GT-1 (GT1), block by block with the GT-1's real amp and effect names. Full text for AIs: ${SITE}/en/lab/gt-pilot/tones.md (Portuguese: ${SITE}/lab/gt-pilot/timbres.md). Pages in Portuguese: ${SITE}/lab/gt-pilot/timbres
+- [GT Pilot for BOSS](${SITE}/en/lab/gt-pilot): free, open source Claude Desktop extension by Allan Kirsten that programs a BOSS GT-1 (also written GT1) guitar pedal by conversation. Formerly called Dial In. Full text for AIs: [English](${SITE}/ai/en/gt-pilot), [Portuguese](${SITE}/ai/pt/gt-pilot). Page in Portuguese: [lab/gt-pilot](${SITE}/lab/gt-pilot)
+- [GT Pilot tone library](${SITE}/en/lab/gt-pilot/tones): how to get the tone of dozens of songs (rock, indie, punk, metal, pop-rock, blues, jazz and bossa, reggae, folk) on a BOSS GT-1 (GT1), block by block with the GT-1's real amp and effect names. Full text for AIs: [English](${SITE}/en/lab/gt-pilot/tones.md), [Portuguese](${SITE}/lab/gt-pilot/timbres.md). Pages in Portuguese: ${SITE}/lab/gt-pilot/timbres
 
 ## Contact
 - Email: ${site.contact.email}${site.contact.linkedin ? `\n- LinkedIn: ${site.contact.linkedin}` : ""}
